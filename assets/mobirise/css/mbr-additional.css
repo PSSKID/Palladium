@@ -2866,8 +2866,24 @@ section.form .container {
 }
 #msg-box8-ap .mbr-section-title {
   font-size: 72px;
-  color: #fd231f;
+  color: #eaeaea;
   font-family: 'Bitter', serif;
+}
+#msg-box3-aq .mbr-section-title,
+#msg-box3-aq p {
+  color: #000;
+}
+#msg-box3-ar .mbr-section-title,
+#msg-box3-ar p {
+  color: #000;
+}
+#msg-box3-as .mbr-section-title,
+#msg-box3-as p {
+  color: #000;
+}
+#msg-box3-at .mbr-section-title,
+#msg-box3-at p {
+  color: #000;
 }
 #contacts3-ag .list-group-text {
   text-align: left;
