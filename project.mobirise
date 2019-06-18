@@ -7903,11 +7903,17 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "color": "#fd231f",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -7939,7 +7945,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>&nbsp;The Palladium Security Minor Hockey Fund was created to help minor hockey organizations develop and roster minor hockey p[laers that may not have the chance to play the game we all love. &nbsp;</p><p><br></p><p>There are always challenges when it comes to raising money for minor hockey in our comunities. &nbsp;From house legue to AAA Rep hockey, The cost of the sport can set a team almost $80 000 or more for one season. &nbsp;These funds are paid by parents through the league and team fees. &nbsp;</p><p><br></p><p>These fees can start at the house leauge level from $500 a season, AAA Rep Parents can expect to pay as much as $5000.00 a season. This does not include equipment and travel costs&nbsp;</p><p><br></p><p>This program works with both the organization and or the individual hockey team.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],

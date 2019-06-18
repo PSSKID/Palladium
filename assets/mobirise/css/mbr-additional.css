@@ -9,6 +9,7 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
 
@@ -2787,6 +2788,7 @@ section.form .container {
   color: #3d8eb9;
 }
 
+
 #menu-ae .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2861,6 +2863,11 @@ section.form .container {
 #msg-box8-ap .mbr-section-title,
 #msg-box8-ap p {
   color: #fff;
+}
+#msg-box8-ap .mbr-section-title {
+  font-size: 72px;
+  color: #fd231f;
+  font-family: 'Bitter', serif;
 }
 #contacts3-ag .list-group-text {
   text-align: left;
