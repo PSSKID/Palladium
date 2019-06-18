@@ -2787,7 +2787,6 @@ section.form .container {
   color: #3d8eb9;
 }
 
-
 #menu-ae .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2859,9 +2858,9 @@ section.form .container {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
 }
-#header1-ae .mbr-section-title {
-  color: #f10d16;
-  font-family: 'Roboto', sans-serif;
+#msg-box8-ap .mbr-section-title,
+#msg-box8-ap p {
+  color: #fff;
 }
 #contacts3-ag .list-group-text {
   text-align: left;
