@@ -2873,6 +2873,9 @@ section.form .container {
 #msg-box3-aq p {
   color: #000;
 }
+#msg-box3-aq .lead P {
+  text-align: left;
+}
 #msg-box3-ar .mbr-section-title,
 #msg-box3-ar p {
   color: #000;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "palldiumsecurity.ca.html",
+    "currentPage": "Minor_Hockey_Funding.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -7842,7 +7842,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Information</a>",
           "title1": "<a href=\"Minor_Hockey_Funding.html#msg-box8-ap\">Idea Behind it</a>",
           "title2": "<p><a href=\"Minor_Hockey_Funding.html#content1-ao\">How it works</a></p>",
-          "title3": "Organizations",
+          "title3": "<a href=\"Minor_Hockey_Funding.html#msg-box3-as\">Organizations</a>",
           "title4": "Services Offered",
           "media1": {
             "iconFont": {
@@ -7876,9 +7876,10 @@
               "name": "social-people",
               "family": "Material-Design-Icons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Minor_Hockey_Funding.html#msg-box3-as",
               "size": 0,
-              "color": "#e6e6e6"
+              "color": "#e6e6e6",
+              "newWindow": false
             }
           },
           "media4": {
@@ -7941,23 +7942,13 @@
           "_anchor": "msg-box8-ap"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>&nbsp;The Palladium Security Minor Hockey Fund was created to help minor hockey organizations develop and roster minor hockey players that may not have the chance to play the game we all love. &nbsp;</p><p><br></p><p>There are always challenges when it comes to raising money for minor hockey in our comunities. &nbsp;From house legue to AAA Rep hockey, The cost of the sport can set a team almost $80 000 or more for one season. &nbsp;These funds are paid by parents through the league and team fees. &nbsp;</p><p><br></p><p>These fees can start at the house leauge level from $500 a season, AAA Rep Parents can expect to pay as much as $5000.00 a season. This does not include equipment and travel costs&nbsp;</p><p><br></p><p>This program works with both the organization and or the individual hockey team.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ao"
-        },
-        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -7979,12 +7970,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "How It Works",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "title": "",
+          "text": "<p>The Palladium Security Minor Hockey Fund was created to help minor hockey organizations develop and roster hockey players that may not have the resources to enroll in the game thus giving them a chance to play the game we all love.  \n</p><p>\n</p><p>The owner of Palladium has been involved with minor hockey since his kids started playing the game at the age of seven. The cost of registration and equipment the first couple of years was about $700 a season. This included the registration fees and the hockey kits of equipment we purchased from Canadian Tire. Once the kids advanced past the novice years and they started to make Select teams and then progress to A-AA and AAA level teams, the cost of being in the game grew at a remarkable rate. The $700 fee in novice was not the cost of just skates and a stick at the AAA level. \n</p><p>\n</p><p>I remember growing up in the downtown core of Hamilton and seeing kids that had natural athletic abilities. These kids never had the opportunity to join organized sports due to financial restraints. I questioned, How many of these kids could have been the next Gretzky, Crosby, McDavid, Price.. \n</p><p>\n</p><p>There are always challenges when it comes to raising money for minor hockey in our communities. From house league to AAA Rep hockey, the cost of the sport can set a team back almost $80 000 or more for one season. The cost to the parent can range from $1000 to $6000 per season. \n</p><p>\n</p><p>These fees can start at the house league level from $700 a season, AAA Rep Parents can expect to pay as much as $7000.00 a season and higher. This may not include equipment and travel costs \n</p><p>\n</p><p>This is why we developed the Palladium Security Minor Hockey Fund. Organizations that take part in the program can build a fund over time. This fund can be used in various ways. \n</p><p>•\tThey can help top up a team that may have issues raising the needed funds. \n</p><p>•\tThe funds can help a player upgrade equipment that they may not be able to pay for\n</p><p>•\tA coach may have a gifted athlete that can not afford to play but would if given a chance, they may succeed. The fund can pay for the roster sport of equipment required.\n</p><p>\n</p><p>Giving a young athlete a chance to participate and succeed can change their life. Giving a team the funds to improve can through training or better equipment can make a difference in possibly developing the next one.. \n</p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Back To Top</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-aq"
         },
@@ -8014,7 +8005,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Teams",
+          "title": "How It Works",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "_tags": [
             "Theme"
