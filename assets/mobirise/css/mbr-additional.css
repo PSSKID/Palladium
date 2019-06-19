@@ -859,6 +859,7 @@ section.form .container {
 #contacts3-5w H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-5w UL {
   text-align: left;
@@ -986,6 +987,7 @@ section.form .container {
 #contacts3-11 H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-11 UL {
   text-align: left;
@@ -1093,6 +1095,7 @@ section.form .container {
 #contacts3-q H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-q UL {
   text-align: left;
@@ -1231,6 +1234,7 @@ section.form .container {
 #contacts3-2n H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-2n UL {
   text-align: left;
@@ -1324,6 +1328,7 @@ section.form .container {
 #contacts3-77 H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-77 UL {
   text-align: left;
@@ -1501,6 +1506,7 @@ section.form .container {
 #contacts3-7n H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-7n UL {
   text-align: left;
@@ -1614,6 +1620,7 @@ section.form .container {
 #contacts3-43 H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-43 UL {
   text-align: left;
@@ -1717,6 +1724,7 @@ section.form .container {
 #contacts3-9o H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-9o UL {
   text-align: left;
@@ -1821,6 +1829,7 @@ section.form .container {
 #contacts3-9w H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-9w UL {
   text-align: left;
@@ -1973,6 +1982,7 @@ section.form .container {
 #contacts3-ag H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-ag UL {
   text-align: left;
@@ -2100,6 +2110,7 @@ section.form .container {
 #contacts3-8i H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-8i UL {
   text-align: left;
@@ -2208,6 +2219,7 @@ section.form .container {
 #contacts3-1x H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-1x UL {
   text-align: left;
@@ -2326,6 +2338,7 @@ section.form .container {
 #contacts3-49 H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-49 UL {
   text-align: left;
@@ -2452,6 +2465,7 @@ section.form .container {
 #contacts3-25 H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-25 UL {
   text-align: left;
@@ -2575,6 +2589,7 @@ section.form .container {
 #contacts3-8t H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-8t UL {
   text-align: left;
@@ -2675,6 +2690,7 @@ section.form .container {
 #contacts3-61 H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-61 UL {
   text-align: left;
@@ -2777,6 +2793,7 @@ section.form .container {
 #contacts3-af H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-af UL {
   text-align: left;
@@ -2869,24 +2886,17 @@ section.form .container {
   color: #eaeaea;
   font-family: 'Bitter', serif;
 }
-#msg-box3-aq .mbr-section-title,
-#msg-box3-aq p {
-  color: #000;
+#header3-ao .mbr-section-title,
+#header3-ao .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box3-aq .lead P {
-  text-align: left;
+#header3-ap .mbr-section-title,
+#header3-ap .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box3-ar .mbr-section-title,
-#msg-box3-ar p {
-  color: #000;
-}
-#msg-box3-as .mbr-section-title,
-#msg-box3-as p {
-  color: #000;
-}
-#msg-box3-at .mbr-section-title,
-#msg-box3-at p {
-  color: #000;
+#header3-aq .mbr-section-title,
+#header3-aq .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts3-ag .list-group-text {
   text-align: left;
@@ -2899,6 +2909,7 @@ section.form .container {
 #contacts3-ag H4 {
   text-align: left;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts3-ag UL {
   text-align: left;
@@ -2907,5 +2918,99 @@ section.form .container {
   font-size: 20px;
 }
 #contacts3-ag LI {
+  color: #3d8eb9;
+}
+
+#menu-ar .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-ar .navbar-caption {
+  color: #ffffff;
+}
+#menu-ar .navbar-toggler {
+  color: #eaeaea;
+}
+#menu-ar .link,
+#menu-ar .dropdown-item {
+  color: #eaeaea;
+}
+#menu-ar .link {
+  font-size: 0.95rem;
+}
+#menu-ar .dropdown-item,
+#menu-ar .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-ar .link:hover,
+#menu-ar .dropdown-item:hover,
+#menu-ar .link:focus,
+#menu-ar .dropdown-item:focus {
+  color: #1634dd;
+}
+#menu-ar .link[aria-expanded="true"],
+#menu-ar .dropdown-menu {
+  background: #000000;
+}
+#menu-ar .nav-dropdown-sm .link:focus,
+#menu-ar .nav-dropdown-sm .link:hover,
+#menu-ar .nav-dropdown-sm .dropdown-item:focus,
+#menu-ar .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-ar .navbar,
+#menu-ar .nav-dropdown-sm,
+#menu-ar .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-ar .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-ar .bg-color.transparent .link {
+  color: #eaeaea;
+  transition: none;
+}
+#menu-ar .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-ar .bg-color.transparent.opened .link:hover,
+#menu-ar .bg-color.transparent.opened .link:focus {
+  color: #1634dd;
+}
+#menu-ar .link[aria-expanded="true"],
+#menu-ar .dropdown-item[aria-expanded="true"] {
+  color: #1634dd!important;
+}
+#menu-ar.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-ar .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-ar .close-icon::before,
+#menu-ar .close-icon::after {
+  background-color: #eaeaea;
+}
+#menu-ar A {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts3-at .list-group-text {
+  text-align: left;
+  color: #2969b0;
+}
+#contacts3-at P {
+  text-align: left;
+  color: #efefef;
+}
+#contacts3-at H4 {
+  text-align: left;
+  font-size: 20px;
+  color: #ffffff;
+}
+#contacts3-at UL {
+  text-align: left;
+}
+#contacts3-at STRONG {
+  font-size: 20px;
+}
+#contacts3-at LI {
   color: #3d8eb9;
 }
