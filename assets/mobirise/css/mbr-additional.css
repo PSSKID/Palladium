@@ -2208,28 +2208,6 @@ section.form .container {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
 }
-#contacts3-1x .list-group-text {
-  text-align: left;
-  color: #2969b0;
-}
-#contacts3-1x P {
-  text-align: left;
-  color: #efefef;
-}
-#contacts3-1x H4 {
-  text-align: left;
-  font-size: 20px;
-  color: #ffffff;
-}
-#contacts3-1x UL {
-  text-align: left;
-}
-#contacts3-1x STRONG {
-  font-size: 20px;
-}
-#contacts3-1x LI {
-  color: #3d8eb9;
-}
 
 #menu-44 .hide-buttons .nav-btn {
   display: none !important;
