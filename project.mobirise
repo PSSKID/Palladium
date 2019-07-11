@@ -1509,7 +1509,7 @@
             "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "title": "7 Monitoring Stations Across Canada",
           "meta": "with multiligual services",
