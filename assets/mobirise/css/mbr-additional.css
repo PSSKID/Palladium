@@ -2801,8 +2801,16 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#header3-be .mbr-section-title,
+#header3-be .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-bd P {
   font-size: 20px;
+}
+#header3-bf .mbr-section-title,
+#header3-bf .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts3-af .list-group-text {
   text-align: left;
