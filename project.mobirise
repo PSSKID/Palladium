@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "authorized_Monitoring.html",
+    "currentPage": "Security Main Splash.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -2184,7 +2184,7 @@
           "title2": "Security for my Business",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Integrated Security",
+          "title3": "Smarthome Solutions",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -2518,7 +2518,7 @@
             "paddingTop": "5",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/publication1-1-847x470.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x640.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2530,7 +2530,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.6"
           },
-          "title": "Integrated Security Solutions<br>",
+          "title": "Smarthome Solutions<br>",
           "text": "<p>If you currentlly have a sercurity systems and are looking to have in serviced or add any of our services to it, We can help. &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_New_Install.html\" data-toolbar=\"-mbrBtnMove\">I need a new system</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_existing.html\" data-toolbar=\"-mbrBtnMove\">I have a system<br>and require servics<br></a>",
           "_tags": [
@@ -2545,7 +2545,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Integrated Security Solutions for either your home or business can be customized to suite your needs.  The solutions can be as simple as adding lighting automation to light up a pathway when you enter your home to something that will allow you to send video verifications to your smartphone in the event that an alarm has been triggered.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that not all clients require the same level of security and with that in mind, we try to build your integrated security system in a way that helps simplify your life but not break the vault!</p><p><br></p>",
+          "text": "<p>Smarthome Security Solutions for your home can be customized to suite your needs.  The solutions can be as simple as adding simple automation to light up a pathway when you enter your home to something that will allow you to send video verifications to your smartphone in the event that an alarm has been triggered.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that not all clients require the same level of security and with that in mind, we try to build your Smarthome Solutions in a way that helps simplify your life but not break the vault!</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
