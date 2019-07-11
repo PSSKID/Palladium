@@ -2791,14 +2791,15 @@ section.form .container {
   color: #fff;
 }
 #content1-b8 P {
-  font-size: 22px;
+  font-size: 24px;
 }
 #header3-bc .mbr-section-title,
 #header3-bc .mbr-section-subtitle {
   text-align: center;
 }
 #content1-bb P {
-  font-size: 22px;
+  font-size: 24px;
+  text-align: center;
 }
 #content1-bd P {
   font-size: 20px;

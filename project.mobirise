@@ -7588,7 +7588,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Many consumers that are looking to add smart home features in their homes usually explore these options at their local big box retailer.  Most of these retailers sell quality products at competitive pricing. The issue is that homeowners that are looking to automate their home don’t understand what the drawbacks of certain devices are.  That’s why Palladium is here to help educate you and build a solution that will simply work.&nbsp;</p><p><br></p><p><br></p>",
+          "text": "<p>Many consumers that are looking to add smart home features in their homes usually explore these options at their local big box retailer.  Most of these retailers sell quality products at competitive pricing. </p><p><br></p><p>The issue is that homeowners that are looking to automate their home don’t understand what the drawbacks of certain devices are.  That’s why Palladium is here to help educate you and build a solution that will simply work.&nbsp;</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7596,7 +7596,7 @@
           "_anchor": "content1-b8",
           "_styles": {
             "P": {
-              "font-size": "22px"
+              "font-size": "24px"
             }
           }
         },
@@ -7639,7 +7639,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>When people are looking to automate their home with all the new gadgets on the market, they need to educate themselves on how devices work and what the advantages and disadvantages are for each device.\n</p><p><br></p><p>Most devices sold in the retail space are Wi-Fi enabled.  These devices range from plug in wall receptacles, wall switches, light bulbs, doorbells and locks.  In most part, these devices work well once installed</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>What is the downfall of these Wi-Fi devices? </i></b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>&nbsp;&nbsp;&nbsp;&nbsp;The home network the answe</i></b>r. \n</p><p><br></p>",
+          "text": "<p>When people are looking to automate their home with all the new gadgets on the market, they need to educate themselves on how devices work and what the advantages and disadvantages are for each device.\n</p><p><br></p><p>Most devices sold in the retail space are Wi-Fi enabled.  These devices range from plug in wall receptacles, wall switches, light bulbs, doorbells and locks.  In most part, these devices work well once installed</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><b><i>What is the downfall of these Wi-Fi devices? </i></b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>Th<b><i>e home network the answe</i></b>r.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7647,7 +7647,8 @@
           "_anchor": "content1-bb",
           "_styles": {
             "P": {
-              "font-size": "22px"
+              "font-size": "24px",
+              "text-align": "center"
             }
           }
         },
