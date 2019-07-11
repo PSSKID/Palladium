@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
@@ -10,6 +9,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
 
 
 
@@ -830,15 +830,25 @@ section.form .container {
 }
 #header1-1 .mbr-section-lead {
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
 #header1-1 .mbr-section-lead SPAN {
   color: #ffffff;
 }
 #header1-1 .mbr-section-title I {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Oxygen', sans-serif;
   color: #ffffff;
   font-size: 80px;
+}
+#header1-1 .mbr-section-title SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-b3 .mbr-section-title,
+#header3-b3 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-b3 .mbr-section-title {
+  color: #1634dd;
 }
 #msg-box8-70 .mbr-section-title,
 #msg-box8-70 p {
@@ -847,6 +857,7 @@ section.form .container {
 #msg-box8-70 .lead P {
   font-size: 20px;
   color: #000000;
+  text-align: left;
 }
 #contacts3-5w .list-group-text {
   text-align: left;
@@ -1006,6 +1017,7 @@ section.form .container {
 #msg-box7-8v P {
   text-align: left;
   font-size: 19px;
+  color: #000000;
 }
 #msg-box7-8v H3 {
   text-align: left;
@@ -1189,8 +1201,12 @@ section.form .container {
 #header3-ap .mbr-section-subtitle {
   text-align: center;
 }
+#header3-ap .mbr-section-title {
+  color: #1634dd;
+}
 #content1-30 DIV {
   text-align: left;
+  color: #000000;
 }
 #content1-30 P {
   text-align: left;
@@ -1205,6 +1221,9 @@ section.form .container {
 #header3-aq .mbr-section-title,
 #header3-aq .mbr-section-subtitle {
   text-align: center;
+}
+#header3-aq .mbr-section-title {
+  color: #1634dd;
 }
 #header3-as .mbr-section-title,
 #header3-as .mbr-section-subtitle {
@@ -1365,7 +1384,7 @@ section.form .container {
 #msg-box8-7s .mbr-section-title {
   font-size: 60px;
   font-family: 'Slabo 27px', serif;
-  color: #2969b0;
+  color: #ffffff;
 }
 #msg-box8-7s .lead P {
   font-size: 21px;
@@ -1597,7 +1616,7 @@ section.form .container {
 }
 #msg-box8-41 .lead P {
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
 }
 #content1-64 DIV {
   text-align: center;
@@ -2081,6 +2100,7 @@ section.form .container {
 }
 #msg-box5-8e P {
   text-align: left;
+  font-size: 18px;
 }
 #msg-box5-8e H3 {
   text-align: left;
@@ -2293,6 +2313,9 @@ section.form .container {
 #extFeatures7-4o H4 {
   font-size: 30px;
 }
+#extFeatures7-4o .mbr-section-title {
+  color: #1634dd;
+}
 #header3-4s .mbr-section-title,
 #header3-4s .mbr-section-subtitle {
   text-align: center;
@@ -2350,6 +2373,9 @@ section.form .container {
 }
 #msg-box3-27 .lead OL {
   text-align: left;
+}
+#msg-box3-27 .mbr-section-title {
+  color: #1634dd;
 }
 #menu-22 .hide-buttons .nav-btn {
   display: none !important;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Smart_Home_automation_lighting_thermostat_Security_.html",
+    "currentPage": "Minor_Hockey_Funding.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -31,8 +31,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 395,
-    "versionPublish": "4.10.4",
+    "uniqCompNum": 402,
+    "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -188,16 +188,20 @@
             },
             ".mbr-section-lead": {
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             ".mbr-section-lead SPAN": {
               "color": "#ffffff"
             },
             ".mbr-section-title I": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#ffffff",
               "font-size": "80px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "header1-1",
@@ -208,7 +212,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20171028-134015-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -218,11 +222,34 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
-          "title": "<br><i>Welcome to <br>Palladium Security</i>",
-          "text": "<br>We have been protecting homes and businesses in your community since 1992&nbsp;<br>Palladium is dedicated to providing the absolute best in security solutions, products and monitoring services in the industry. <br><br> We invite you to browse our site for more information and feel free to contact us with any questions.",
-          "buttons": "      <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Security Main Splash.html\" data-toolbar=\"-mbrBtnMove\">Security and Smart Home<br>Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"police_response.html\" data-toolbar=\"-mbrBtnMove\">False Alarm \n<br>Polices</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about_Us.html\" data-toolbar=\"-mbrBtnMove\">About <br>Us</a> "
+          "title": "<span style=\"font-weight: normal;\"><i>Welcome to <br>Palladium Security</i></span>",
+          "text": "<br>We have been protecting homes and businesses in your community since 1992.&nbsp;Palladium is dedicated to providing our clients with the best security solutions, products and monitoring services available!&nbsp;<br><br> We invite you to browse our website to learn more about our security services. &nbsp;Please contact us with any questions you may have regarding secuirty system &amp; for a no-obligation security assessment.",
+          "buttons": "      <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Security Main Splash.html\" data-toolbar=\"-mbrBtnMove\">Security &amp; Smart<br>Home&nbsp;Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"police_response.html\" data-toolbar=\"-mbrBtnMove\">False Alarm \n<br>Polices</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"about_Us.html\" data-toolbar=\"-mbrBtnMove\">About&nbsp;<br>Us</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#1634dd"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "CUSTOMER PORTAL NOW AVAILABLE",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b3"
         },
         {
           "_styles": {
@@ -231,7 +258,8 @@
             },
             ".lead P": {
               "font-size": "20px",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -259,7 +287,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
-          "text": "<p>All current Palladium Security Clients can use our new portal service to view their invoices, manuals, false alarm policies and well as online control with our monitoring station.</p>",
+          "text": "<p>All Palladium clients can now register for their own personal online client portal where you can view your invoices, download user manuals, view/download the most current false alarm policies enjoy online access to your security monitoring account.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://client.palladiumsecurity.ca\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Clinet_Hub_Information.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
@@ -543,7 +571,7 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/security-home-collage-2-448x350.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -555,7 +583,7 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
           "title": "Residential Security Systsms<br>NEW INSTALLATIONS",
@@ -573,7 +601,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p>If you are considering a new security system for your home, you can be rest assured that Palladium will put its 25 years of security industry experience to work for you. Palladium offers the latest in security technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>\n</p><p>\n</p><p>We understand that every home owner requires different level of security, so we try not to offer a one size fits all solution. Over the last 25 years we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire. We will talk to you to determine the level of security you require and then come to a solution of the best possible product that will fit your needs</p><p><br></p><p>\n</p><p>\n</p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home that will meet your specific needs. We recognize that no two homes are the same and every home owner has different expectations of what they would like their security system to do for their families.</p><p><br></p><p>\n</p><p>\n</p><p>A security expert will arrange a convenient time to visit your premises to do a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.</p><p><br></p><p>\n</p><p>\n</p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring services, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>\n</p><p>\n</p><p>To get started with a FREE complimentary security analysis of your home, give us a call or<a href=\"#bottom\"> fill in our convenient form</a> and our security expert will contact you to arrange a time. <a href=\"mailto:service@palladiumsecurity.ca\">Click here to contact us</a>! &nbsp;or&nbsp;<a href=\"tel:19055222007\">Give us a call</a> and start saving!</p><p><br></p>",
+          "text": "<p>If you are considering a new security system for your home, you can be rest assured that Palladium will put its 27 years of security industry experience to work for you. Palladium offers the latest in security technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>\n</p><p>\n</p><p>We understand that every home owner requires different levels of security, so we try to avoid the one-size-fits-all solution. Over the last 27 years, we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire. We will take the time to discuss what your prioritoes are to you in order to determine the level of security you require and then offer a solutions and solutions to fit your needs.</p><p><br></p><p>\n</p><p>\n</p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home and family that will meet your specific needs. We recognize that no two homes are the same and every home owner has different expectations of what they would like their security system to do for their families.</p><p><br></p><p>\n</p><p>\n</p><p>A security expert will arrange a convenient time to visit your premises to conduct a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.</p><p><br></p><p>\n</p><p>\n</p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring services, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>\n</p><p>\n</p><p>To get started with a FREE complimentary security analysis of your home, give us a call or<a href=\"#bottom\"> fill in our convenient form</a> and our security expert will contact you to arrange a time. <a href=\"mailto:service@palladiumsecurity.ca\">Click here to contact us</a>! &nbsp;or&nbsp;<a href=\"tel:19055222007\">Give us a call</a> and start saving!</p><p><br></p>",
           "_styles": {
             "P": {
               "text-align": "left",
@@ -682,7 +710,7 @@
             }
           },
           "title": "ULC Monitoring Services",
-          "text": "Palladium Security Authorized Stations Operate in 6 separate locations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode or as is normally the case, as part of our inter-connected network.",
+          "text": "Palladium Security Authorized Stations Operate in 7 separate locations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode or as is normally the case, as part of our inter-connected network.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"authorized_Monitoring.html\" data-toolbar=\"-mbrBtnMove\">Mointoring Centre</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>",
           "_tags": [
             "Theme"
@@ -763,7 +791,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
@@ -824,7 +852,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
@@ -1014,7 +1042,8 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "19px"
+              "font-size": "19px",
+              "color": "#000000"
             },
             "H3": {
               "text-align": "left"
@@ -1471,11 +1500,14 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#1634dd"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -1494,7 +1526,8 @@
           "_name": "content1",
           "_styles": {
             "DIV": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             },
             "P": {
               "text-align": "left"
@@ -1509,16 +1542,19 @@
           },
           "_anchor": "content1-30",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<h1>Palladium Security Authorized Stations Operate in 6 separate geographical locations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network&nbsp;<br></h1><div><span style=\"font-weight: normal;\">•\tSix state of the art Monitoring Stations across our great Nation that we – and you – can be proud of.</span></div><div><span style=\"font-weight: normal;\">•\tAll stations in our network are constantly being upgraded and improved.</span></div><div><span style=\"font-weight: normal;\">•\tOur technology is such that information is ALWAYS constantly shared amongst the SIX stations!</span></div><div><span style=\"font-weight: normal;\">•\tOperators working in our 6 stations, see EVERY alarm signal in real time and no matter where the operator is sitting, he/she can handle the &nbsp; &nbsp; &nbsp;alarm.</span></div><div><span style=\"font-weight: normal;\">•\tAll our stations are housed in secure, controlled environments, protected behind double vestibules and an array of security measures. </span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">•\tAll stations are powered by surge suppressed, power management systems with industrial strength generators to ensure uninterrupted station operation.</span></div><div><span style=\"font-weight: normal;\">•\tOur network of stations was designed to stay operational in any weather conditions, including, ice storms, floods, major power outages, fires and hurricanes.</span></div><div><span style=\"font-weight: normal;\">•\tA professional team of highly trained technicians constantly monitor our stations and their systems 24/7/365 to guarantee smooth operation of our     facilities.</span></div><div><span style=\"font-weight: normal;\">•\tAll our stations have dual tracking redundant telephone systems.\n</span></div><div><span style=\"font-weight: normal;\">•\tAll workstations are digitally recorded.\n</span></div><div><span style=\"font-weight: normal;\">•\tOur phone systems are always interlinked between stations.\n</span></div><div><span style=\"font-weight: normal;\">•\tAny incoming call can be answered in any of our 6 monitoring stations.\n</span></div><div><span style=\"font-weight: normal;\">•\tCalls can be tracked in real time\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><br></div>"
+          "text": "<h1>Palladium Security Authorized monitoring stations operate in 7 separate geographical locations that are continuously linked together. &nbsp; Located across Canada, these 7 stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.&nbsp;<br></h1><div><span style=\"font-weight: normal;\">•\t7 state of the art Monitoring Stations across Canada<br><br></span></div><div><span style=\"font-weight: normal;\">• Each station in our network is constantly being upgraded and improved.<br><br></span></div><div><span style=\"font-weight: normal;\">•\tOur technology is such that information is ALWAYS constantly shared amongst the 7 stations!<br><br></span></div><div><span style=\"font-weight: normal;\">•\tOperators working in each of the 7 stations can see EVERY alarm signal in real-time and no matter where the operator is sitting and is capable of taking appropriate actions for each alarm signal that comes in from anywhere in the country.<br><br></span></div><div><span style=\"font-weight: normal;\">•\tAll our stations are housed in secure, controlled environments, protected behind double vestibules and an array of security measures. <br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">•\tAll stations are powered by surge suppressed, power management systems with industrial strength generators to ensure uninterrupted station operation.<br><br></span></div><div><span style=\"font-weight: normal;\">•\tOur network of stations were designed to stay operational regardless of any weather conditions, including, ice storms, floods, major power outages, fires and hurricanes.<br><br></span></div><div><span style=\"font-weight: normal;\">•\tA professional team of highly trained technicians constantly monitor each station &amp; systems 24/7/365 to guarantee smooth operation.<br><br></span></div><div><span style=\"font-weight: normal;\">•\tEach station has dual tracking redundant telephone systems.\n<br><br></span></div><div><span style=\"font-weight: normal;\">•\tAll workstations are digitally recorded.\n<br><br></span></div><div><span style=\"font-weight: normal;\">•\tOur phone systems are always interlinked between the 7 station network.<br><br></span></div><div><span style=\"font-weight: normal;\">•\tAny incoming call can be answered in any of the 7 monitoring stations.\n<br><br></span></div><div><span style=\"font-weight: normal;\">•\tCalls can be tracked in real time\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><br></div>"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#1634dd"
             }
           },
           "_params": {
@@ -1528,7 +1564,7 @@
             "bgColor": "#efefef"
           },
           "title": "Station Backup Features",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
@@ -1541,7 +1577,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "•\tA selection of APC 5kw Uninterruptible Power Supplies\n<div>•\tGenerators to supply power during outage\n</div><div>•\tEnough Receivers and equipment in stock to deploy a new station.\n</div><div>•\tOver 2000 liters of diesel fuel.\n</div><div>•\tEmergency supplies (including protective clothing, food and beverage supplies, blankets, cots and more).\n</div><div>•\tOUR EMERGENCY RESPONSE VEHICLE\n</div><div><br></div>",
+          "text": "•\tA selection of APC 5kw Uninterruptible Power Supplies (UPC)<div>•\tGenerators to supply power during outage\n</div><div>•\tEnough Receivers and equipment in stock to deploy a new station.\n</div><div>•\tOver 2000 liters of diesel fuel.\n</div><div>•\tEmergency supplies (including protective clothing, food and beverage supplies, blankets, cots and more).\n</div><div>•\tOUR EMERGENCY RESPONSE VEHICLE\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -1578,7 +1614,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Besides the standard equipment for such a vehicle, ours features:\n</p><p>• Dual Heavy Duty 175-amp alternators.\n</p><p>• Dual 3 KW power inverters.\n</p><p>• An extra 100-litre diesel storage tank.\n</p><p>• 5kw Diesel Generator</p><p><br></p><p>Amongst the supplies it contains are:\n</p><p>• 2 High-speed, high-volume water pumps that can handle any threatened flood threat.\n</p><p>• A full supply of hand tools and power tools.\n</p><p>• Spare telephone equipment.\n</p><p>• Spare receiver equipment.\n</p><p>• Extra laptop computers.\n</p><p>• Emergency clothing such as vests, gloves, breathing masks, hard hats and safety boots.\n</p><p><br></p>",
+          "text": "<p>Besides the standard equipment for such a vehicle, ours feature:\n<br><br></p><p>• Dual Heavy Duty 175-amp alternators.\n</p><p>• Dual 3 KW power inverters.\n</p><p>• An extra 100-litre diesel storage tank.\n</p><p>• 5kw Diesel Generator</p><p><br></p><p>Amongst the supplies it contains include:\n<br><br></p><p>• 2 High-speed, high-volume water pumps that can handle any threatened flood threat.\n</p><p>• A full supply of hand tools and power tools.\n</p><p>• Spare telephone equipment.\n</p><p>• Spare receiver equipment.\n</p><p>• Extra laptop computers.\n</p><p>• Emergency clothing such as vests, gloves, breathing masks, hard hats and safety boots.\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1616,11 +1652,11 @@
           },
           "_anchor": "content1-35",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<h1>Multicultural Monitoring service</h1><div>Your language of choice can be accommodated.\n</div><div>Providing service in both of Canada’s official languages has always been part of the Palladium Standard. In addition, service for those who speak Cantonese/Mandarin is available. Since many of our operators are from ethnic backgrounds, other languages such as Greek, Arabic, Hebrew and others can often be served as well.</div><div><br></div><div>\n</div><div>\n</div><div>The sole function of our operators is to process incoming alarm signals.\n</div><div>Most monitoring stations require their operators to do data entry, make data edits, do filing of documents and/or do photocopying, perform administrative functions of one sort or another. We believe the monitoring of your account is JOB 1 – and that important job requires the full attention of our operators. Accordingly, tasks other than those that directly involve the monitoring of accounts are performed in other departments within the organization</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>Palladium Security Authorized Stations Operate in 6 separate monitoring stations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.\n</div><div>\n</div><div>There is an advantage of having stations from coast to coast is simple, Weather and other emergency conditions directly impacts how monitoring station operate.  If a large storm goes through an area, It can knock out power, cause floods or even cause mandatory evacuations. If any of these conditions occur in the area of the monitoring station, It will hamper the operation thus slowing down or even halting critical emergency dispatches.\n</div><div>\n</div><div>Blackout of North America in 2003 caused the North American eastern seaboard to go black for almost a week.  This failure of the electrical grid caused many lower end stations to fail and be non-responsive.  The Palladium Security mufti station solution ensures that this will not happen to our clients.\n</div><div><br></div>"
+          "text": "<h1>Multicultural Monitoring service</h1><div>Your language of choice can be accommodated.\n</div><div><br>Providing service in both of Canada’s official languages has always been part of the Palladium Standard. In addition, service for those who speak Cantonese/Mandarin is available. Since many of our operators are from various ethnic backgrounds, other languages such as Greek, Arabic, Hebrew and others can often be served as well.</div><div><br></div><div>\n</div><div>\n</div><div>The sole function of our operators is to process incoming alarm signals.\n<br><br></div><div>Most monitoring stations require their operators to do data entry, make data edits, do filing of documents and/or do photocopying, perform administrative functions of one sort or another. We believe the monitoring of your account is JOB 1 – and that important job requires the full attention of our operators. Accordingly, tasks other than those that directly involve the monitoring of accounts are performed in other departments within the organization</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>Palladium Security Authorized Stations Operate in 7 separate monitoring stations that are continously linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.\n<br><br></div><div>\n</div><div>There is an advantage of having stations from coast to coast is simple, Weather and other emergency conditions directly impacts how monitoring station operate.  If a large storm goes through an area, It can knock out power, cause floods or even cause mandatory evacuations. If any of these conditions occur in the area of the monitoring station, It will hamper the operation thus slowing down or even halting critical emergency dispatches.\n</div><div>\n</div><div>Blackout of North America in 2003 caused the North American eastern seaboard to go black for almost a week.  This failure of the electrical grid caused many lower end stations to fail and be non-responsive.  The Palladium Security mufti station solution ensures that this will not happen to our clients.\n</div><div><br></div>"
         },
         {
           "_tags": [
@@ -2087,7 +2123,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/security-home-collage-4-448x350.jpg",
+              "src": "@PROJECT_PATH@/assets/images/security-home-collage600-5-600x469.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2192,7 +2228,7 @@
               "font-size": "60px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "color": "#2969b0"
+              "color": "#ffffff"
             },
             ".lead P": {
               "font-size": "21px"
@@ -2215,7 +2251,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "title": "Residential Security Systems<br>",
           "text": "<p>If you currentlly have a sercurity systems and are looking to have in serviced or add any of our services to it, We can help. &nbsp;</p>",
@@ -2343,7 +2379,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Palladium Security can help you find a solution to either update your current security system or install a completely new integrated system in your home.</p><p><br></p><p>\n</p><p>\n</p><p>We understand that every home owner requires different level of security, so we try not to offer a one size fits all solution. Over the last 25 years we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire. We will talk to you to determine the level of security you require and then come to a solution of the best possible product that will fit your needs. Click on the new security system link below for more details</p><p><br></p><p>\n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we will come and inspect your system to see if your current system is able to be simply updated to meet your requirements. In most cases, the current system will be able to have some smart home features added at minimal cost. Click on the Existing system link below form more details.\n</p><p><br></p>",
+          "text": "<p>Palladium Security can help you find a solution to either update your current security system or install a completely new integrated system in your home.</p><p><br></p><p>\n</p><p>\n</p><p>REQUIRE A NEW SECURITY SYSTEM?<br><br>We understand that every home owner requires different levels of security, so we try not to offer a one-size-fits-all solution. Over the last 25 years, our clients have requested everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire detection. With your feedback, we will determine the level of security you require and recommend customized solutions utilizing the best products that will fit your specific requirements for your home and family. &nbsp;Click on the \"New Security System\" link below to learn more.</p><p><br></p><p>\n</p><p>\n</p><p>ALREADY OWN A SECURITY SYSTEM?</p><p><br>If you already have a system and are thinking of upgrading, schedule an appointment with us and we'll come and inspect your system to determine whether your current system can be simply updated to meet your requirements. In most cases, the current system will be able to have some smart home features added at minimal cost. Click on the \"Existing Security Systems\" link below to learn more.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2426,7 +2462,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Security Solutions for any business can get confusing.  The risk factors of securing a business goes much further then installing a security system to prevent intrusions.  \n</p><p>Proper security of a business also helps owners and managers to</p><p><br></p><p>\n</p><p>&nbsp; &nbsp; 1:  Reduce shrinkage\n</p><p>&nbsp; &nbsp; 2: Protect loss during operational hours\n</p><p>&nbsp; &nbsp; 3: Protect front line staff against aggressive clients\n</p><p>&nbsp; &nbsp; 4: Protect the company against disgruntled employees\n</p><p>&nbsp; &nbsp; 5: Protection against insurance claims</p><p><br></p><p>\n</p><p>\n</p><p>Palladium Security understands that every business requires different level of security, Solutions we offer can be as simple as installation of a perimeter protection to a more advanced integrated solution that encompasses security, Access control, Closed circuit video and automation.</p><p><br></p><p> \n</p><p>\n</p><p>We will discuss with you to determine the level of security you require and then submit a solution that we feel is the best possible product that will fit your needs. Click on the new security system link below for more details\n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we will come and inspect your system to see if your current system is able to be simply updated to meet your requirements. In most cases, the current system will be able to have some smart home features added at minimal cost. Click on the Existing system link below form more details.\n</p><p><br></p>",
+          "text": "<p>Security Solutions for any business can be more complex and very confusing.  The risk factors associated with securing a business goes much further then simply installing a security system to prevent intrusions.  \n<br><br></p><p>An appropriate security solution of a business also helps owners and managers to:</p><p><br></p><p>\n</p><p>&nbsp; &nbsp; 1:  Reduce shrinkage\n</p><p>&nbsp; &nbsp; 2: Protect loss during operational hours\n</p><p>&nbsp; &nbsp; 3: Protect front line staff against aggressive clients\n</p><p>&nbsp; &nbsp; 4: Protect the company against disgruntled employees\n</p><p>&nbsp; &nbsp; 5: Protection against insurance claims</p><p><br></p><p>\n</p><p>\n</p><p>Palladium Security understands that every business requires a customized security solutions that meets the unique requirements of each individual business. &nbsp;Following an indepth review of the business premisses along with an understanding of the security related expectations of each specific business, Palladium will provide the business owner with a selection of options/solutions to meet those expectations. &nbsp; Our security solutions can be as simple as installation of a perimeter protection all the way up to a more advanced integrated solution that encompasses security, access control, closed circuit video, and automation.</p><p><br></p><p> \n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we can inspect your system to determine whether your security system can be simply updated to meet your specific requirements. &nbsp;In most cases, we can adapt and add smart home features at minimal cost to your current security system. Click on the Existing system link below form more details. &nbsp;Click on the Existing system link below form more details.</p><p><br></p><p>However, in the event is too antiquated to be upgraded with current technology, we can provide you with a full security proposal featuring the most latest security technology that is capable of encompassing the full spectrum of security services that is currently available. &nbsp;Click on the new security system link below for more details.&nbsp;</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2509,7 +2545,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Integrated Security Solutions for either your home or business can be customized to suite your needs.  The solutions can be as easy and adding simple lighting automation to light up a pathway when you enter your home to something that will allow you to send video verifications to your smartphone if the alarm is triggered.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that not all clients require the same solutions, so we try to build your integration system in a way that helps simplify your life but not break the vault. \n</p><p><br></p>",
+          "text": "<p>Integrated Security Solutions for either your home or business can be customized to suite your needs.  The solutions can be as simple as adding lighting automation to light up a pathway when you enter your home to something that will allow you to send video verifications to your smartphone in the event that an alarm has been triggered.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that not all clients require the same level of security and with that in mind, we try to build your integrated security system in a way that helps simplify your life but not break the vault!</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2794,7 +2830,7 @@
             },
             ".lead P": {
               "text-align": "center",
-              "font-size": "16px"
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -2822,7 +2858,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Residential Security Systems<br>",
-          "text": "<p>If you currentlly have a sercurity systems and are looking to have it serviced or upgrade services, </p><p>We can help. &nbsp;</p>",
+          "text": "<p>If you currentlly have a sercurity system and are considering to have it serviced or upgraded with additional components and services</p><p>We can help!&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_New_Install.html\" data-toolbar=\"-mbrBtnMove\">I need a new system</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_existing.html\" data-toolbar=\"-mbrBtnMove\">I have a system<br>and require servics<br></a>"
         },
         {
@@ -2831,7 +2867,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Palladium Security can help you find a solution to either update your current security system or install a completely new integrated system in your home.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that every home owner requires different level of security, so we try not to offer a one size fits all solution. &nbsp;Since 1992, &nbsp;we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire.  We will talk to you to determine the level of security you require and then come to a solution of the best possible product that will fit your needs.  Click on the<a href=\"Residential_New_Install.html\"> new security system </a>link below for more details</p><p><br></p><p> \n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we will come and inspect your system to see if your current system is able to be simply updated to meet your requirements.  In some cases, security systems manufactured in the last 10 years will be able to have some smart home features added at minimal cost.  Click on the<a href=\"Residential Existing.html\"> Existing system</a> link below for more details. \n</p><p>\n</p><p><br></p>",
+          "text": "<p>Palladium Security can help you find a solution to either update your current security system or install a completely new integrated system in your home.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that every home owner requires a different level of security, so we try not to offer a one-size fits-all solution. &nbsp;Since 1992, &nbsp;we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire protection.  We will meet with you personally to determine the level of security you require and then present you with solutions utilizing the best products to meet your expectations. &nbsp;Click on the<a href=\"Residential_New_Install.html\"> new security system </a>link below for more details.</p><p><br></p><p> \n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we will come and inspect your system to see if your current system is able to be simply updated to meet your requirements.  In some cases, security systems manufactured in the last 10 years will be able to have some smart home features added at minimal cost.  Click on the<a href=\"Residential Existing.html\"> Existing system</a> link below for more details. \n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -4529,7 +4565,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
@@ -4550,7 +4586,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lanvac-station-canadamap-515x376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lanvac-surveillance-station-location-map-rev1.0-may-2019-600x489.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4561,7 +4597,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x419.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x419.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4583,7 +4619,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/operator-woman-4-600x368.jpg",
+              "src": "@PROJECT_PATH@/assets/images/techsupport-600x389.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4594,7 +4630,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-8-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-8-600x400.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4611,29 +4647,29 @@
               "active": true
             }
           },
-          "title1": "<a href=\"page12.html#msg-box5-8e\">6 Locations Across Canada</a>",
+          "title1": "<a href=\"page12.html#msg-box5-8e\" class=\"text-primary\"><br></a><br><a href=\"authorized_Monitoring.html#msg-box5-8e\" class=\"text-primary\">7 Locations Across Canada</a>",
           "subtitle1": "",
-          "caption1": "Palladium Security &nbsp;6 separate Authorized Stations that are always operating as one station. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.<br><br>",
-          "title2": "<a href=\"page12.html#msg-box5-8d\">e-mail notifications</a>",
+          "caption1": "Palladium Security 7 separate Authorized Stations that are always operating as one station. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.<br><br>",
+          "title2": "<a href=\"authorized_Monitoring.html#msg-box5-8d\" class=\"text-primary\">e-mail notifications</a>",
           "subtitle2": "",
           "caption2": "Our e-mail notification service will allow specified users to receive alerts from our station.  These alerts can be custom set to send alarms only, opening or closing and trouble conditions. So you are always in touch with your home or business. \n<br>\n<br>Click below for more information&nbsp;<br>",
-          "title3": "<a href=\"page12.html#msg-box5-8f\">Self Maintained Client Portal</a>",
+          "title3": "<a href=\"authorized_Monitoring.html#msg-box5-8f\" class=\"text-primary\">Self Maintained Client Portal</a>",
           "subtitle3": "",
           "caption3": "Palladium security has integrated two portals to help its customers communicate with us and to also offer a convenient way of updating and viewing your security response contacts.  All your false alarm policies, user manuals are all stored in this location.&nbsp;<br><br>",
-          "title4": "<a href=\"page12.html#msg-box5-8g\">Multicultural Monitoring service</a>",
+          "title4": "<a href=\"authorized_Monitoring.html#msg-box5-8g\" class=\"text-primary\">Multicultural Monitoring service</a>",
           "subtitle4": "",
-          "caption4": "We recognize that Canada is a mutilcultural country and some of our clients are more comfortable speaking in their home language&nbsp;<br><br>Palladium will try to accomodate feature to our clients.&nbsp;<br><br><br>",
-          "title5": "<a href=\"guard_response.html\">Private Guard Responce&nbsp;</a>",
+          "caption4": "We recognize that Canada is a mutilcultural country and some of our clients are more comfortable speaking in their home language&nbsp;<br><br>Please reach out to us and see if your native language is offer through our services<br>",
+          "title5": "<a href=\"guard_response.html\" class=\"text-primary\">Private Guard Responce&nbsp;</a>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Palladium Security has RSPNDR guard service as our primary Private Guard Responce Company.&nbsp;<br><br>Thir unique dispatch and trackins system allows us to ensure the fastes response possible*<br><br>",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page12.html#msg-box5-8e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page12.html#msg-box5-8d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page12.html#msg-box5-8f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page12.html#msg-box5-8g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"guard_response.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"authorized_Monitoring.html#msg-box5-8e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-map-1 mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"authorized_Monitoring.html#msg-box5-8d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"authorized_Monitoring.html#msg-box5-8f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"authorized_Monitoring.html#msg-box5-8g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-headphones mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"guard_response.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-police-man mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
@@ -4693,8 +4729,8 @@
               "size": 0
             }
           },
-          "title": "6 Locations Across Canada",
-          "text": "Palladium Security Authorized Stations Operate in 6 separate monitoring stations that are linked together at all times. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network",
+          "title": "7 Locations Across Canada",
+          "text": "Palladium Security Authorized Stations Operate in 7 separate monitoring stations that are linked together at all times. Located across Canada, these severn stations are each capable of operating in stand-alone mode, or as is normally the case, as part of our inter-connected network",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ULC Monitoring Station.html#content1-30\" data-toolbar=\"-mbrBtnMove\">Montoring Centre</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to Top</a>",
           "_tags": [
             "Theme"
@@ -4702,7 +4738,8 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "18px"
             },
             "H3": {
               "text-align": "left",
@@ -5583,6 +5620,9 @@
             },
             "H4": {
               "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "color": "#1634dd"
             }
           },
           "_anchor": "extFeatures7-4o",
@@ -6228,6 +6268,9 @@
             },
             ".lead OL": {
               "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "color": "#1634dd"
             }
           },
           "_tags": [
@@ -6688,7 +6731,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
@@ -6806,7 +6849,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
@@ -7178,7 +7221,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/house-photo2-235x133.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1279.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7187,8 +7230,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "title": "Residential Security Systsms<br>Existing Installations",
           "text": "<p>If you currentlly have a sercurity systems and are looking to have in serviced or add any of our services to it, We can help. &nbsp;</p>",
@@ -7205,7 +7248,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p>If you are considering a new security system for your home for the first time, you can be rest assured that Palladium will put its 23 years of security industry experience to work for you. Palladium offers the latest in security system technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>\n</p><p>\n</p><p>Customized Security Solutions to Meet Your Specific Requirements.</p><p><br></p><p> \n</p><p>\n</p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home that will meet your specific needs. We recognize that no two homes are the same and every home owner has different expectations of what they would like their security system to do for their families.\n</p><p>\n</p><p>A security expert will arrange a convenient time to visit your premises to do a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.</p><p><br></p><p> \n</p><p>\n</p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>\n</p><p>\n</p><p>To get started with a FREE complimentary security analysis of your home, give us a call or fill in our convenient form and our security expert will contact you to arrange a time. <a href=\"about_Us.html\">Click here to contact us</a>!   Give us a call and start saving!</p>",
+          "text": "<p>If you are considering a new security system for your home for the first time, you can be rest assured that Palladium will put its 27 years of security industry experience to work for you. Palladium offers the latest in security system technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>\n</p><p>\n</p><p>Customized Security Solutions to Meet Your Specific Requirements.</p><p><br></p><p> \n</p><p>\n</p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home that will meet your specific needs. We recognize that no two homes are the same and every home owner has different expectations of what they would like their security system to do for their families.\n</p><p>\n</p><p>A security expert will arrange a convenient time to visit your premises to do a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.</p><p><br></p><p> \n</p><p>\n</p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>\n</p><p>\n</p><p>To get started with a FREE complimentary security analysis of your home, give us a call or fill in our convenient form and our security expert will contact you to arrange a time. <a href=\"about_Us.html\">Click here to contact us</a>!   Give us a call and start saving!</p>",
           "_styles": {
             "P": {
               "text-align": "left"
@@ -7759,20 +7802,20 @@
             "iconsColor": "#fff",
             "showTitles": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader3_bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/1MMdnQ1t6J0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/1MMdnQ1t6J0",
+              "rawUrl": "https://www.youtube.com/embed/1MMdnQ1t6J0?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.4"
           },
           "title": "Protect Your Home<br>Fund Your Team",
           "text": "Finding ways for teams and organizations to fund minor hockey has always been a challage.\n<br>Thats why Palladium Security Systems has created the Minor hockey funding program<br><br>",
