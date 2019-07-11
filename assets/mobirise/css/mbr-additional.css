@@ -2786,6 +2786,23 @@ section.form .container {
   text-align: left;
   font-size: 20px;
 }
+#msg-box8-b6 .mbr-section-title,
+#msg-box8-b6 p {
+  color: #fff;
+}
+#content1-b8 P {
+  font-size: 22px;
+}
+#header3-bc .mbr-section-title,
+#header3-bc .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-bb P {
+  font-size: 22px;
+}
+#content1-bd P {
+  font-size: 20px;
+}
 #contacts3-af .list-group-text {
   text-align: left;
   color: #2969b0;
