@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Minor_Hockey_Funding.html",
+    "currentPage": "ULC Monitoring Station.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -1508,11 +1508,11 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "6 Monitoring Stations Across Canada",
-          "meta": "",
+          "title": "7 Monitoring Stations Across Canada",
+          "meta": "with multiligual services",
           "_tags": [
             "Theme"
           ],
