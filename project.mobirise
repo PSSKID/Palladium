@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 413,
+    "uniqCompNum": 416,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -339,15 +339,15 @@
           "_anchor": "contacts3-5w",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0.9"
           },
           "logo": {
             "image": {
@@ -397,7 +397,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -915,7 +915,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -969,7 +969,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -1228,7 +1228,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -1282,7 +1282,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -1684,7 +1684,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -1737,7 +1737,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -1970,13 +1970,13 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0.9"
           },
           "logo": {
             "image": {
@@ -2027,7 +2027,7 @@
           "text2": "",
           "text3": "",
           "text4": "",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -2591,7 +2591,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -2645,7 +2645,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -2915,7 +2915,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -2969,7 +2969,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -3236,7 +3236,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -3290,7 +3290,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -3703,7 +3703,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -3757,7 +3757,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -4312,15 +4312,15 @@
           },
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0.9"
           },
           "logo": {
             "image": {
@@ -4370,7 +4370,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -4935,7 +4935,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -4989,7 +4989,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -6076,7 +6076,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -6130,7 +6130,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -6453,7 +6453,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -6507,7 +6507,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -6972,7 +6972,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -7026,7 +7026,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -7268,7 +7268,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -7322,7 +7322,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -7604,9 +7604,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Retail Solutions</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Professional Solutions</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Smart_Home_automation_lighting_thermostat_Security_.html#header3-bc\" data-toolbar=\"-mbrBtnMove\">Retail Solutions</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"Smart_Home_automation_lighting_thermostat_Security_.html#header3-bh\" data-toolbar=\"-mbrBtnMove\">Professional Solutions</a>",
           "_tags": [
             "Theme"
           ],
@@ -7617,11 +7617,14 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -7656,13 +7659,16 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "title": "Router Traffic",
           "meta": "",
@@ -7698,9 +7704,9 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "title": "Performance <br>and<br>Security Issues",
           "meta": "",
@@ -7724,6 +7730,39 @@
           "_anchor": "content1-bg"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Professional Grade Solutions",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-bh"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-bi"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -7735,7 +7774,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0.9"
@@ -7789,7 +7828,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -8280,15 +8319,15 @@
           },
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0.9"
           },
           "logo": {
             "image": {
@@ -8338,7 +8377,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
@@ -8627,15 +8666,15 @@
           },
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1413.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0.9"
           },
           "logo": {
             "image": {
@@ -8685,7 +8724,7 @@
           },
           "text4": "",
           "title1": "Categories",
-          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"Under_Construction.html\">S</a>marthome Services</li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
+          "text5": "<li><i><a href=\"business_security.html#msg-box8-8m\">Business &nbsp;Solution</a>s</i></li><li><a href=\"Residential_Home.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html#msg-box8-2k\">ULC Monitoring Stationsl</a></li><li>Responce Services</li><li><a href=\"product_videos.html\">Product Videos</a></li><li><a href=\"#top\">Smarthome Services</a></li><li><a href=\"about_Us.html#msg-box7-8v\">About Us</a></li>",
           "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
           "form": {
             "title": "MESSAGE",
