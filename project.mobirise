@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 425,
+    "uniqCompNum": 428,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -8841,64 +8841,209 @@
         },
         {
           "_params": {
-            "showImage": true,
             "showTitle": true,
             "showText": true,
-            "showForm": true,
-            "showArrow": true,
-            "imageSize": 60,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader16-bg.jpg",
+            "inverse": false,
+            "elements": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures2_bg.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": 0.1,
+            "showIcons": true,
+            "iconsColor": "#333333"
           },
-          "title": "HEADER WITH IMAGE",
-          "text": "Full-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "title": "MEET THE MOBIRISE 3<br>LANDING PAGE TOOLKIT",
+          "title1": "WHAT IS MOBIRISE?",
+          "title2": "WHY MOBIRISE?",
+          "title3": "IS IT GOOD FOR ME?",
+          "title4": "MOBIRISE WEBSITE BUILDER",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text2": "Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers projects.",
+          "text3": "Key differences from traditional builders: Minimalistic, extremely easy-to-use interface Mobile-friendliness, latest website blocks and techniques \"out-the-box\"  Free for commercial and non-profit use",
+          "text4": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
           "media": {
             "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@-blocks/components/_images/img_extMsg-box3.jpg"
-            },
-            "video": {
               "active": true,
-              "src": "http://www.aibasecloud.com/#interactive-products-section8",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-20190712-121129-1080x1620.png",
               "link": "",
-              "size": 0
+              "alt": "",
+              "title": ""
             }
           },
-          "form": {
-            "action": "palladium29@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email"
-              }
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
             }
           },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader16",
-          "_anchor": "extHeader16-br"
+          "_name": "extFeatures2",
+          "_anchor": "extFeatures2-bu"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/iphone-vertical.png",
+              "active": true
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "layers",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "video",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "FEATURES",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "feature_title1": "Innovative ideas",
+          "feature_subtitle1": "Creative and intelligent solutions",
+          "feature_text1": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title2": "Retina ready",
+          "feature_subtitle2": "High resolution screens friendly",
+          "feature_text2": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "Totally responsive",
+          "feature_subtitle4": "Suits well all devices and screen sizes",
+          "feature_text4": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title5": "Sharp solutions",
+          "feature_subtitle5": "Elaborated code and trendy design",
+          "feature_text5": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-bv"
         },
         {
           "_styles": {
