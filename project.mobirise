@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 420,
+    "uniqCompNum": 421,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -8872,6 +8872,67 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"palldiumsecurity.ca.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Security&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security Main Splash.html\" aria-expanded=\"false\">General Information</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Residtential</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential_Home.html\">Residential Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Smart_Home_automation_lighting_thermostat_Security_.html#msg-box5-ah\" aria-expanded=\"false\">Smart Home Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_existing.html\">I have a system</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential_New_Install.html\" aria-expanded=\"false\">I need a new system</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Business Solutions</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business_security.html#msg-box8-8m\">Home Page (Business)</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page12.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Response Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"authorized_Monitoring.html\" aria-expanded=\"false\">Monitoring Stations<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"police_response.html\" aria-expanded=\"false\">False Alarm Policies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"guard_response.html\" aria-expanded=\"false\">Guard Responce Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product VIdeos.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Product Videos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructional_Videos.html\" aria-expanded=\"false\">Instructional Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"product_videos.html\" aria-expanded=\"false\">Product Videos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0.00&amp;item_name=Monitoring+Services&amp;currency_code=CAD\" target=\"_blank\">Make a Payment</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://client.palladiumsecurity.ca/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_Us.html\">About &nbsp; &nbsp;Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Minor_Hockey_Funding.html#extHeader3-ai\">Hockey<br>Funding</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" style=\"background-color: rgb(239, 239, 239); display: inline !important;\"><br></a><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ULC Monitoring Station.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Minor_Hockey_Funding.html#extHeader3-ai\">Hockey</a></li>",
           "_anchor": "menu-bk"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/9lgspHwYWBo?t=5",
+                "title": "Palladium Smart Home Solutions",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Palladium can create a Smart Home Solution\n<br>to most of our installed security systems.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "VIDEO SLIDE",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sparklers.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-bo"
         },
         {
           "_inherit": "msg-box5",
