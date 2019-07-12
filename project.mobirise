@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Smart_Home_automation_lighting_thermostat_Security_.html",
+    "currentPage": "Smart-Home_Solutions.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -8906,7 +8906,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mobile-frame.png-316x424.png",
               "link": "",
@@ -8914,10 +8913,11 @@
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "http://www.aibasecloud.com/wp-content/uploads/2019/01/Push-notifications.mp4",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on"
+              "loop": "on",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
