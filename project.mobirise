@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page19.html",
+    "currentPage": "Smart-Home_Solutions.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -7488,7 +7488,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "6",
@@ -7530,7 +7530,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Palladium Smart Home Services&nbsp;</span>",
           "text": "<b>Our new Smart Home webpage is coming soon. </b>&nbsp;We will be offering services that can be installed for already installed and new security systems. &nbsp;<br><br>If you currently have a DSC security system that is identified as Power Series, We will be able to retrofit the system to our Smart Home Service. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Retail Vs <br>Installed</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Palladium <br>Smart Home</a>",
           "_tags": [
             "Theme"
           ],
@@ -8770,11 +8770,12 @@
         }
       ]
     },
-    "page19.html": {
+    "Smart-Home_Solutions.html": {
       "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "Page 19",
-        "order": 2
+        "meta_descr": "Smart Home Solution",
+        "title": "Smart Home Solution",
+        "order": 2,
+        "header_custom": " home automation systems, surveillance, ip cameras, access control, cameras and surveillance, energy saving thermostats"
       },
       "components": [
         {
@@ -8877,6 +8878,9 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "color": "#1634dd"
             }
           },
           "_params": {
@@ -8912,8 +8916,8 @@
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -8921,8 +8925,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "This is an intro with beautiful background video and image on the left side.",
+          "title": "Palladium Smart Home Solutions",
+          "text": "<b>Palladium can create a Smart Home Solution<br> to most of our installed security systems.&nbsp;</b>",
           "_tags": [
             "Theme"
           ],

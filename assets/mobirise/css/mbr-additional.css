@@ -3136,6 +3136,9 @@ section.form .container {
 #msg-box6-bn .lead p {
   color: #fff;
 }
+#msg-box6-bn P {
+  color: #1634dd;
+}
 #contacts3-bl .list-group-text {
   text-align: left;
   color: #2969b0;
