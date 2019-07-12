@@ -7704,8 +7704,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "title": "Performance <br>and<br>Security Issues",
@@ -7722,12 +7722,17 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>When you add any new device to your home network, chances are that they are controlled in the cloud.  What does this mean?  Manufactures of smart devices create a management platform for their clients.  When you add a smart device on your Wi-Fi Network, it creates a connection to the manufacturers cloud-based platform so you can gain access and control the device from anywhere in the world. </p><p><br></p><p> \r</p><p>This technology does make it easy to use these products thus allowing you to take advantage of the smart home features.  What most consumers do not realize is that their whole system is now reliant on their router being able to control all the traffic, their internet provider not limiting traffic or having an outage and their network being exposed to external cyber-attacks\r</p><p><br></p>",
+          "text": "<p>When you add any new device to your home network, chances are that they are controlled in the cloud.  What does this mean?  Manufactures of smart devices create a management platform for their clients.  When you add a smart device on your Wi-Fi Network, it creates a connection to the manufacturers cloud-based platform so you can gain access and control the device from anywhere in the world. </p><p><br></p><p> \n</p><p>This technology does make it easy to use these products thus allowing you to take advantage of the smart home features.  What most consumers do not realize is that their whole system is now reliant on their router being able to control all the traffic, their internet provider not limiting traffic or having an outage and their network being exposed to external cyber-attacks\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-bg"
+          "_anchor": "content1-bg",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
@@ -7760,7 +7765,12 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-bi"
+          "_anchor": "content1-bi",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_tags": [

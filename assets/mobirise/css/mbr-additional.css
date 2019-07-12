@@ -2818,9 +2818,15 @@ section.form .container {
 #header3-bf .mbr-section-subtitle {
   text-align: center;
 }
+#content1-bg P {
+  font-size: 20px;
+}
 #header3-bh .mbr-section-title,
 #header3-bh .mbr-section-subtitle {
   text-align: center;
+}
+#content1-bi P {
+  font-size: 22px;
 }
 #contacts3-af .list-group-text {
   text-align: left;
