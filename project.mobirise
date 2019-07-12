@@ -8906,6 +8906,7 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mobile-frame.png-316x424.png",
               "link": "",
@@ -8916,8 +8917,7 @@
               "src": "http://www.aibasecloud.com/wp-content/uploads/2019/01/Push-notifications.mp4",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
