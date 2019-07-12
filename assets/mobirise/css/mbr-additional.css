@@ -3060,3 +3060,101 @@ section.form .container {
 #contacts3-at LI {
   color: #3d8eb9;
 }
+
+#menu-bk .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-bk .navbar-caption {
+  color: #ffffff;
+}
+#menu-bk .navbar-toggler {
+  color: #eaeaea;
+}
+#menu-bk .link,
+#menu-bk .dropdown-item {
+  color: #eaeaea;
+}
+#menu-bk .link {
+  font-size: 0.95rem;
+}
+#menu-bk .dropdown-item,
+#menu-bk .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-bk .link:hover,
+#menu-bk .dropdown-item:hover,
+#menu-bk .link:focus,
+#menu-bk .dropdown-item:focus {
+  color: #1634dd;
+}
+#menu-bk .link[aria-expanded="true"],
+#menu-bk .dropdown-menu {
+  background: #000000;
+}
+#menu-bk .nav-dropdown-sm .link:focus,
+#menu-bk .nav-dropdown-sm .link:hover,
+#menu-bk .nav-dropdown-sm .dropdown-item:focus,
+#menu-bk .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-bk .navbar,
+#menu-bk .nav-dropdown-sm,
+#menu-bk .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-bk .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-bk .bg-color.transparent .link {
+  color: #eaeaea;
+  transition: none;
+}
+#menu-bk .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-bk .bg-color.transparent.opened .link:hover,
+#menu-bk .bg-color.transparent.opened .link:focus {
+  color: #1634dd;
+}
+#menu-bk .link[aria-expanded="true"],
+#menu-bk .dropdown-item[aria-expanded="true"] {
+  color: #1634dd!important;
+}
+#menu-bk.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-bk .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-bk .close-icon::before,
+#menu-bk .close-icon::after {
+  background-color: #eaeaea;
+}
+#menu-bk A {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box6-bn .mbr-section-title,
+#msg-box6-bn .lead p {
+  color: #fff;
+}
+#contacts3-bl .list-group-text {
+  text-align: left;
+  color: #2969b0;
+}
+#contacts3-bl P {
+  text-align: left;
+  color: #efefef;
+}
+#contacts3-bl H4 {
+  text-align: left;
+  font-size: 20px;
+  color: #ffffff;
+}
+#contacts3-bl UL {
+  text-align: left;
+}
+#contacts3-bl STRONG {
+  font-size: 20px;
+}
+#contacts3-bl LI {
+  color: #3d8eb9;
+}
