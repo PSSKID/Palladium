@@ -7624,7 +7624,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "5",
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
