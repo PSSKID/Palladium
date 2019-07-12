@@ -8887,12 +8887,12 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/house-keys-766x474.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -8904,7 +8904,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/skylon-tower-observation-deck-admission-in-niagara-falls-288880-360x240.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mobile-frame.png-316x424.png",
               "link": "",
               "alt": "",
               "title": ""
