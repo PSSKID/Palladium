@@ -2932,13 +2932,15 @@ section.form .container {
   color: #eaeaea;
   font-family: 'Bitter', serif;
 }
-#header3-ao .mbr-section-title,
-#header3-ao .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-bz P {
+  text-align: left;
 }
-#header3-aq .mbr-section-title,
-#header3-aq .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-bz H3 {
+  text-align: left;
+  color: #0622bf;
+}
+#extTabs2-c3 P {
+  text-align: left;
 }
 #contacts3-ag .list-group-text {
   text-align: left;

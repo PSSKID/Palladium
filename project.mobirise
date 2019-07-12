@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 428,
+    "uniqCompNum": 436,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -8149,95 +8149,150 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "success",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Palladium Minor Hockey Fund",
+          "text": "The Palladium Security Minor Hockey Fund was created to help hockey organizations from the MD to AAA levels develop and roster hockey players that may not have the resources to enroll in the game thus giving them a chance to play the game we all love. \n<br>\n<br>The owner of Palladium has been involved with minor hockey since his kids started playing the game at the age of seven. The cost of registration and equipment the first couple of years was about $700 a season. This included the registration fees and the hockey kits of equipment we purchased from Canadian Tire. Once the kids advanced past the novice years and they started to progress to A-AA and AAA level teams, the cost of being in the game grew at a remarkable rate. The $700 fee in novice was not the cost of just skates and a stick at the AAA level. <br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-bz",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#0622bf"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>The Palladium Security Minor Hockey Fund was created to help hockey organizations from the MD to AAA levels develop and roster hockey players that may not have the resources to enroll in the game thus giving them a chance to play the game we all love.\n</p><p><br></p><p>The owner of Palladium has been involved with minor hockey since his kids started playing the game at the age of seven. The cost of registration and equipment the first couple of years was about $700 a season. This included the registration fees and the hockey kits of equipment we purchased from Canadian Tire. &nbsp;Once the kids advanced past the novice years and they started to progress to A-AA and AAA level teams, the cost of being in the game grew at a remarkable rate. The $700 fee in novice was not the cost of just skates and a stick at the AAA level.\n</p><p><br></p><p>I remember growing up in the downtown core and seeing kids that had natural athletic abilities. These kids never had the opportunity to join organized sports due to financial restraints. I questioned, How many of these kids could have been the next Gretzky, Crosby, McDavid, Price..\n</p><p><br></p><p>There are always challenges when it comes to raising money for minor hockey in our communities. From house league to AAA Rep hockey, the cost of the sport can set a team back almost $80 000 or more for one season. The cost to the parent can range from $1000 to $6000 per season depending on the level and fund raising available. &nbsp;<span style=\"font-size: 1.07rem;\">These fees can start at the house league level from $700 a season, AAA Rep Parents can expect to pay as much as $7000.00 a season and higher. This may not include equipment and travel costs</span></p><p><br></p><p>This is why we developed the Palladium Security Minor Hockey Fund. &nbsp;Organizations that take part in the program can build a fund over time use the funds in various ways.\n</p><p><br></p><p>•\tThey can help top up a team that may have issues raising the needed funds.\n</p><p>•\tThey can help a player that cant afford certain equpment</p><p>•\tA coach may have identified a gifted athlete in the community or house league level that can not afford to play rep hockey but would if given a chance. &nbsp;The fund can pay for their roster spot or equipment.\n</p><p><br></p><p>Giving a young athlete a chance to participate and succeed and a higher level can change their life. Giving a team the funds to improve the development of the players through training or better equipment can make a difference in possibly developing the next one..</p><p><br></p><p><br></p><p>\n</p><p><br></p>",
+          "text": "<p>I remember growing up in the downtown core and seeing kids that had natural athletic abilities. These kids never had the opportunity to join organized sports due to financial restraints. I questioned, How many of these kids could have been the next Gretzky, Crosby, McDavid, Price..&nbsp;</p><p><br></p><p>There are always challenges when it comes to raising money for minor hockey in our communities. From house league to AAA Rep hockey, the cost of the sport can set a team back almost $80 000 or more for one season. The cost to the parent can range from $1000 to $6000 per season depending on the level and fund raising available. These fees can start at the house league level from $700 a season, AAA Rep Parents can expect to pay as much as $7000.00 a season and higher. This may not include equipment and travel costs&nbsp;</p><p><br></p><p>This is why we developed the Palladium Security Minor Hockey Fund. Organizations that take part in the program can build a fund over time use the funds in various ways. \n</p><p>\n</p><p>•\tThey can help top up a team that may have issues raising the needed funds. \n</p><p>•\tThey can help a player that cant afford certain equpment \n</p><p>•\tA coach may have identified a gifted athlete in the community or house league level that can not afford to play rep hockey but would if given a chance. The fund can pay for their roster spot or equipment. \n</p><p>\n</p><p>Giving a young athlete a chance to participate and succeed and a higher level can change their life. Giving a team the funds to improve the development of the players through training or better equipment can make a difference in possibly developing the next one..</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-ae"
+          "_anchor": "content1-c0"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "tabs": "2",
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extTabs2_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.2
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
           },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "How It Works",
-          "meta": "Finding Hockey at the Higher Levels",
+          "title": "INTRO WITH FORM",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND</a>",
+          "title1": "",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-c3\" aria-expanded=\"false\">How It Works</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-c3\" aria-expanded=\"true\">Services Offered</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-c3\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-c3\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-c3\">Beautiful</a></li>",
+          "text1": "Minor Hockey Organizations can easily participate in this program by simply enrolling then offering the services we provide to their community.\n<br><br>Once Palladium has the organization registered into the program, we will create a profile for them and donate a portion of the fees back to the organization on specific dates. These fees will be held by the organization and used by teams or individuals that show the need for the funds.\n<br>We realized early on that traveling to other hockey centers across our region was part of competing in this game. From local travel in the select level to distant travel for the rep level. During these games, a family can be away from their home for 3 – 6 hours at a time, many times a week. who is protecting your home? Who is making sure you locked your door? Are your lights on at home to make it seem that your home?\n<br><br>This program will offer services from basic security to smart home integration to everyone in the organization at a competitive rate. Having these services will allow you to have peace of mind knowing your home is secure while cheering on your team. If you’re not sure what if going on at home, use our smart home integration to securely view what is going on. Simple and secure\n<br><br>\n<br>A portion of the fees collected from these services will be help by Palladium in trust.  The funds will be released to the ogranization at an agreed date then the funds will be distributed as needed.<br>",
+          "text2": "Palladium Security offers services from basic security to advanced home control services. Once your organization is registered to the program, the services offered will be listed on the organizations dedicated page\n<br>\n<br>",
+          "text3": "Palladium Security offers services from basic security to advanced home control services. Once your organization is registered to the program, the services offered will be listed on the organizations dedicated page\n<br>\n<br>",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header3",
-          "_anchor": "header3-ao"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Minor Hockey Organizations can easily participate in this program by simply enrolling then offering the services we provide to their community.\r</p><p>Once Palladium has the organization registered into the program, we will create a profile for them and donate a portion of the fees back to the organization on specific dates. These fees will be held by the organization and used by teams or individuals that show the need for the funds.\r</p><p>\r</p><p>\r</p><p>We realized early on that traveling to other hockey centers across our region was part of competing in this game. From local travel in the select level to distant travel for the rep level. During these games, a family can be away from their home for 3 – 6 hours at a time, many times a week. who is protecting your home? Who is making sure you locked your door? Are your lights on at home to make it seem that your home?\r</p><p>\r</p><p>This program will offer services from basic security to smart home integration to everyone in the organization at a competitive rate. Having these services will allow you to have peace of mind knowing your home is secure while cheering on your team. If you’re not sure what if going on at home, use our smart home integration to securely view what is going on. Simple and secure\r</p><p><br></p><p>A portion of the fees collected from these services will be help by Palladium in trust. &nbsp;The funds will be released to the ogranization at an agreed date then the funds will be distributed as needed.&nbsp;</p><p><br></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ah"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to Top</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"Sign_Me_Up.html#extForm1-au\" data-toolbar=\"-mbrBtnMove\">SIgn Me Up</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-af"
-        },
-        {
+          "_name": "extTabs2",
+          "_anchor": "extTabs2-c3",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            "P": {
+              "text-align": "left"
             }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "Services Offered",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-aq"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Palladium Security offers services from basic security to advanced home control services.  Once your organization is registered to the program, the services offered will be listed on the organizations dedicated page</p><p><br></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-am"
+          }
         },
         {
           "_params": {
