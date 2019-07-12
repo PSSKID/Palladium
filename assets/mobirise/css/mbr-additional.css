@@ -3061,6 +3061,13 @@ section.form .container {
   color: #3d8eb9;
 }
 
+#msg-box6-bn .mbr-section-title,
+#msg-box6-bn .lead p {
+  color: #fff;
+}
+#msg-box6-bn P {
+  color: #1634dd;
+}
 #menu-bk .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3131,13 +3138,6 @@ section.form .container {
 #menu-bk A {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
-}
-#msg-box6-bn .mbr-section-title,
-#msg-box6-bn .lead p {
-  color: #fff;
-}
-#msg-box6-bn P {
-  color: #1634dd;
 }
 #contacts3-bl .list-group-text {
   text-align: left;
