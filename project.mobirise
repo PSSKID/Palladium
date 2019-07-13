@@ -7756,7 +7756,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4004.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8193,10 +8193,17 @@
               "color": "#fff"
             },
             "P": {
-              "color": "#0622bf"
+              "color": "#0622bf",
+              "text-align": "left",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
             },
             "H3": {
               "color": "#0622bf"
+            },
+            "SPAN": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -8271,14 +8278,14 @@
             "showIcons": true,
             "iconsColor": "#333333"
           },
-          "title": "Use your current system to add home&nbsp;",
-          "title1": "WHAT IS MOBIRISE?",
-          "title2": "WHY MOBIRISE?",
-          "title3": "IS IT GOOD FOR ME?",
-          "title4": "MOBIRISE WEBSITE BUILDER",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "text2": "Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers projects.",
-          "text3": "Key differences from traditional builders: Minimalistic, extremely easy-to-use interface Mobile-friendliness, latest website blocks and techniques \"out-the-box\"  Free for commercial and non-profit use",
+          "title": "Use your current system to add Smart Home Features",
+          "title1": "What systems are supported?",
+          "title2": "What can it do?",
+          "title3": "How do I choose whats good for me ?",
+          "title4": "What if I dont have a DSC Power Series",
+          "text1": "THe Palladium Smart Home System has a few options depending on the system you currently have installed in your home. &nbsp;If you have a DSC Power Series System, We can easly add the service to your system",
+          "text2": "All of our Smart Home system start with the basic functions of allowing you to remotely arm and disarm the security system via your cell phone.  The system then can be grown to allow for either network or cellular connections to the central station, Controlling lighting door locks and cameras.  Simple integration for everything you want your Smart home to do. &nbsp;",
+          "text3": "Palladium will perform an in-house evaluation to see what security system you have then offer solutions to products that your may like to add.  We strive to make the Smart Home experience an easy one and customized to both your budget and needs. ",
           "text4": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
           "media": {
@@ -8303,32 +8310,35 @@
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-features6",
-              "name": "upload",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "MobiriseIcons",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#666666"
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-features6",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#666666"
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-features6",
-              "name": "heart",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "Mobirise2",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#666666"
             }
           },
           "alias": "mobirise3-blocks/components",
@@ -8336,12 +8346,21 @@
             "Extension"
           ],
           "_name": "extFeatures2",
-          "_anchor": "extFeatures2-bu"
+          "_anchor": "extFeatures2-bu",
+          "_styles": {
+            "H2": {
+              "color": "#0622bf",
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -8365,18 +8384,22 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/iphone-vertical.png",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-features6",
-              "name": "layers",
+              "linkInNewWindow": false,
+              "name": "security-bug",
+              "family": "iconsMind",
+              "active": true,
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media2": {
@@ -8430,22 +8453,22 @@
             }
           },
           "title": "FEATURES",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "feature_title1": "Innovative ideas",
+          "subtitle": "",
+          "feature_title1": "Security Integration",
           "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title2": "Retina ready",
+          "feature_text1": "The traditional security system uses keypads located at the doors and in bedrooms to arm and disarm. The Smart Home solution uses any cell phone or tablet as a central location to perform keypad tasks as well as lighting control",
+          "feature_title2": "Remote VIdeo",
           "feature_subtitle2": "High resolution screens friendly",
-          "feature_text2": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_text2": "Use our in home storage solution to add video securiy and remote verification to your system. &nbsp;All video will be stored in house and availbe for viewing when you are ready.&nbsp;",
           "feature_title3": "Translation ready",
           "feature_subtitle3": "Find a common language with anyone",
           "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title4": "Totally responsive",
+          "feature_title4": "Door Control",
           "feature_subtitle4": "Suits well all devices and screen sizes",
-          "feature_text4": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_text4": "Use the video doorbell and automated locking sysetm to remotly ensure your home is secure. &nbsp;Send a lock command to the front door and have the security system arm while you view the area. &nbsp;Total control and security. &nbsp;",
           "feature_title5": "Sharp solutions",
           "feature_subtitle5": "Elaborated code and trendy design",
-          "feature_text5": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_text5": "The lighting control feature can be used to ilumitate perimiter lights if the alarm souds. Creat a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant to a period of time.&nbsp;",
           "feature_title6": "Awesome parallax",
           "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
           "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",

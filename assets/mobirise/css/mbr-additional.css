@@ -9,6 +9,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -2941,18 +2942,32 @@ section.form .container {
   color: #3d8eb9;
 }
 
+
 #msg-box6-bn .mbr-section-title,
 #msg-box6-bn .lead p {
   color: #fff;
 }
 #msg-box6-bn P {
   color: #0622bf;
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box6-bn H3 {
   color: #0622bf;
 }
+#msg-box6-bn SPAN {
+  font-size: 48px;
+}
+#extFeatures2-bu H2 {
+  color: #0622bf;
+  font-size: 46px;
+}
 #extFeatures1-bv .mbr-section-title {
   color: #fff;
+}
+#extFeatures1-bv P {
+  text-align: left;
 }
 #menu-bk .hide-buttons .nav-btn {
   display: none !important;
