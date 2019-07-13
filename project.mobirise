@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Smart-Home_Solutions.html",
+    "currentPage": "Smart_Home_Videoshtml.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 441,
+    "uniqCompNum": 447,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -5051,9 +5051,9 @@
     "product_videos.html": {
       "settings": {
         "title": "Product Videos",
-        "meta_descr": "Clients that require upgrading or repair of there home security system",
-        "order": 10,
-        "header_custom": ""
+        "meta_descr": "Home Security instructional Videos",
+        "order": 9,
+        "header_custom": "Security instructional videos"
       },
       "components": [
         {
@@ -7756,7 +7756,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4007.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8696,6 +8696,246 @@
             }
           },
           "_anchor": "contacts3-bl"
+        }
+      ]
+    },
+    "Smart_Home_Videoshtml.html": {
+      "settings": {
+        "title": "Smart Home VIdeos",
+        "meta_descr": "Smart Home VIdeo ",
+        "order": 10,
+        "header_custom": "Smart Home videos, home automationd videos"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "title": "<i>Product Videos</i>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ca"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "AI Base",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/RIuWpZqsYio",
+                "image": "@PROJECT_PATH@/assets/images/winter-670314-960-720-960x639.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/winter-670314-960-720-960x639-767x511.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "gallery4-cb"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#eaeaea"
+            },
+            ".link, .dropdown-item": {
+              "color": "#eaeaea"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#eaeaea",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1634dd!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#eaeaea"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#eaeaea",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-529x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "palldiumsecurity.ca.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"palldiumsecurity.ca.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Security&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security Main Splash.html\" aria-expanded=\"false\">General Information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security Main Splash.html\" aria-expanded=\"false\">Smart Home Services</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Residtential</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential_Home.html\">Residential Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential_existing.html\">I have a system</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential_New_Install.html\" aria-expanded=\"false\">I need a new system</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Business Solutions</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business_security.html#msg-box8-8m\">Home Page (Business)</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page12.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Response Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"authorized_Monitoring.html\" aria-expanded=\"false\">Monitoring Stations<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"police_response.html\" aria-expanded=\"false\">False Alarm Policies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"guard_response.html\" aria-expanded=\"false\">Guard Responce Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product VIdeos.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Product Videos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructional_Videos.html\" aria-expanded=\"false\">Instructional Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"product_videos.html\" aria-expanded=\"false\">Product Videos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Minor_Hockey_Funding.html#extHeader3-ai\">Hockey<br>Funding</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0.00&amp;item_name=Monitoring+Services&amp;currency_code=CAD\" target=\"_blank\">Make a Payment</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" style=\"background-color: rgb(239, 239, 239); display: inline !important;\"><br></a><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ULC Monitoring Station.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_Us.html\">About &nbsp; &nbsp;Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://client.palladiumsecurity.ca/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Minor_Hockey_Funding.html#extHeader3-ai\">Hockey</a></li>",
+          "_anchor": "menu-cc"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Palladium Security Systems.",
+          "_anchor": "footer1-cd"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "width": 128,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-ce"
         }
       ]
     }

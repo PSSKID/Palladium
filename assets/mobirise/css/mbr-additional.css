@@ -3062,3 +3062,90 @@ section.form .container {
 #contacts3-bl LI {
   color: #3d8eb9;
 }
+
+#header3-c9 .mbr-section-title,
+#header3-c9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ca .mbr-section-title,
+#header3-ca .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ca .mbr-section-title {
+  font-size: 60px;
+}
+#gallery4-cb .mbr-gallery-item > div > span {
+  color: #ffffff;
+  text-align: center;
+}
+#menu-cc .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-cc .navbar-caption {
+  color: #ffffff;
+}
+#menu-cc .navbar-toggler {
+  color: #eaeaea;
+}
+#menu-cc .link,
+#menu-cc .dropdown-item {
+  color: #eaeaea;
+}
+#menu-cc .link {
+  font-size: 0.95rem;
+}
+#menu-cc .dropdown-item,
+#menu-cc .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-cc .link:hover,
+#menu-cc .dropdown-item:hover,
+#menu-cc .link:focus,
+#menu-cc .dropdown-item:focus {
+  color: #1634dd;
+}
+#menu-cc .link[aria-expanded="true"],
+#menu-cc .dropdown-menu {
+  background: #000000;
+}
+#menu-cc .nav-dropdown-sm .link:focus,
+#menu-cc .nav-dropdown-sm .link:hover,
+#menu-cc .nav-dropdown-sm .dropdown-item:focus,
+#menu-cc .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-cc .navbar,
+#menu-cc .nav-dropdown-sm,
+#menu-cc .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-cc .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-cc .bg-color.transparent .link {
+  color: #eaeaea;
+  transition: none;
+}
+#menu-cc .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-cc .bg-color.transparent.opened .link:hover,
+#menu-cc .bg-color.transparent.opened .link:focus {
+  color: #1634dd;
+}
+#menu-cc .link[aria-expanded="true"],
+#menu-cc .dropdown-item[aria-expanded="true"] {
+  color: #1634dd!important;
+}
+#menu-cc.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-cc .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-cc .close-icon::before,
+#menu-cc .close-icon::after {
+  background-color: #eaeaea;
+}
+#menu-cc A {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
