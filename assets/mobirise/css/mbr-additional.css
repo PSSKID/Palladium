@@ -3244,6 +3244,13 @@ section.form .container {
 #header3-ci .mbr-section-subtitle {
   text-align: center;
 }
+#content1-cj DIV {
+  text-align: center;
+  font-size: 36px;
+}
+#content1-cj P {
+  font-size: 30px;
+}
 #contacts3-ch .list-group-text {
   text-align: left;
   color: #2969b0;
@@ -3337,6 +3344,17 @@ section.form .container {
 #menu-cl A {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
+}
+#msg-box8-d2 .mbr-section-title,
+#msg-box8-d2 p {
+  color: #fff;
+}
+#content1-d3 P {
+  text-align: center;
+  font-size: 24px;
+}
+#content1-d3 DIV {
+  color: #fd231f;
 }
 #contacts3-cn .list-group-text {
   text-align: left;

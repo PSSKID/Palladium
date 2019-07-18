@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Smart_Home_automation_lighting_thermostat_Security_.html",
+    "currentPage": "palldiumsecurity.ca.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#424a4d",
         "#fd231f",
         "#baaeae",
         "#eaeaea",
         "#0622bf",
-        "#0d0c0d",
-        "#f1e1e1"
+        "#0d0c0d"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 470,
+    "uniqCompNum": 472,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -274,7 +274,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -5565,7 +5565,7 @@
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -9035,7 +9035,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "7",
-            "paddingBottom": "5",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "title": "Terms of Service",
@@ -9052,12 +9052,21 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "Terms of service will be updated shortly. &nbsp;Please visit back for update.&nbsp;",
+          "text": "<p>Terms of service will be updated shortly. &nbsp;</p><p>Please visit back for update.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-cj"
+          "_anchor": "content1-cj",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_tags": [
@@ -9300,6 +9309,62 @@
           },
           "text": "Copyright (c) 2019 Palladium Security Systems.",
           "_anchor": "footer1-cm"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Privacy Policy",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-d2"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Palladium Security respects the privacy of its clients. We do not share, sale or distribute any personal information. &nbsp;</p><p><br></p><p>Please come back shortly to see our full policy</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "DIV": {
+              "color": "#fd231f"
+            }
+          }
         },
         {
           "_tags": [
