@@ -8,7 +8,6 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
@@ -2731,6 +2730,7 @@ section.form .container {
 }
 
 
+
 #menu-ae .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2802,27 +2802,36 @@ section.form .container {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
 }
-#msg-box8-ap .mbr-section-title,
-#msg-box8-ap p {
-  color: #fff;
-}
-#msg-box8-ap .mbr-section-title {
-  font-size: 72px;
-  color: #eaeaea;
-  font-family: 'Bitter', serif;
-}
-#header3-cp .mbr-section-title,
-#header3-cp .mbr-section-subtitle {
-  text-align: center;
-}
 #msg-box5-bz P {
   text-align: left;
+  font-size: 18px;
 }
 #msg-box5-bz H3 {
+  text-align: center;
+  color: #0622bf;
+  font-size: 60px;
+}
+#content1-co P {
+  font-size: 18px;
+}
+#content1-c0 P {
+  font-size: 18px;
+}
+#msg-box5-cy P {
   text-align: left;
+}
+#msg-box5-cy H3 {
+  text-align: center;
   color: #0622bf;
 }
-#extTabs2-c3 P {
+#content1-cz DIV {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content1-cz P {
+  font-family: 'Lora', serif;
+  font-size: 20px;
   text-align: left;
 }
 #contacts3-ag .list-group-text {
