@@ -3247,3 +3247,97 @@ section.form .container {
 #contacts3-ch LI {
   color: #3d8eb9;
 }
+
+#menu-cl .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-cl .navbar-caption {
+  color: #ffffff;
+}
+#menu-cl .navbar-toggler {
+  color: #eaeaea;
+}
+#menu-cl .link,
+#menu-cl .dropdown-item {
+  color: #eaeaea;
+}
+#menu-cl .link {
+  font-size: 0.95rem;
+}
+#menu-cl .dropdown-item,
+#menu-cl .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-cl .link:hover,
+#menu-cl .dropdown-item:hover,
+#menu-cl .link:focus,
+#menu-cl .dropdown-item:focus {
+  color: #1634dd;
+}
+#menu-cl .link[aria-expanded="true"],
+#menu-cl .dropdown-menu {
+  background: #000000;
+}
+#menu-cl .nav-dropdown-sm .link:focus,
+#menu-cl .nav-dropdown-sm .link:hover,
+#menu-cl .nav-dropdown-sm .dropdown-item:focus,
+#menu-cl .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-cl .navbar,
+#menu-cl .nav-dropdown-sm,
+#menu-cl .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-cl .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-cl .bg-color.transparent .link {
+  color: #eaeaea;
+  transition: none;
+}
+#menu-cl .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-cl .bg-color.transparent.opened .link:hover,
+#menu-cl .bg-color.transparent.opened .link:focus {
+  color: #1634dd;
+}
+#menu-cl .link[aria-expanded="true"],
+#menu-cl .dropdown-item[aria-expanded="true"] {
+  color: #1634dd!important;
+}
+#menu-cl.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-cl .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-cl .close-icon::before,
+#menu-cl .close-icon::after {
+  background-color: #eaeaea;
+}
+#menu-cl A {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts3-cn .list-group-text {
+  text-align: left;
+  color: #2969b0;
+}
+#contacts3-cn P {
+  text-align: left;
+  color: #efefef;
+}
+#contacts3-cn H4 {
+  text-align: left;
+  font-size: 20px;
+  color: #ffffff;
+}
+#contacts3-cn UL {
+  text-align: left;
+}
+#contacts3-cn STRONG {
+  font-size: 20px;
+}
+#contacts3-cn LI {
+  color: #3d8eb9;
+}
