@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 469,
+    "uniqCompNum": 470,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -7042,7 +7042,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>The professional installations utilze the Zwave or Zigbee protocals with some Wi-Fi when needed within a controlled HUB. &nbsp;</p><p><br></p><p>The advantage of installing your smart home with this method is it limits cloud&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p>Installation of Profession grade smarthome solutions integrate a ULC listed security systems with Zwave or Zigbee control devices. &nbsp;WiFi Devices are limited to</p>",
+          "text": "<p><br></p><p>When you install a smart home solution that was purchased from a big box store, chances are that you will not be able to integrate your security system with it.  Our solution integrates a hub appliance that will control your existing security system with your new smart solutions. \r</p><p>\r</p><p>Our smart hub uses Z wave and ZigBee technology to create a mesh network that will NOT load down your home internet service thus allowing you to stream movies, music and play video games without any lag. \r</p><p>\r</p><p>By utilizing the local hub service instead of the cloud-based retail solutions, you ensure that all your programmed scenes for lighting and automation will continue to work if you lose connection with your internet service.  Our hub network is also backed up by our M2M cellular network.  This will not only ensure you have complete remote control of your smart home, but the security service will also still reach our ULC listed monitoring station in the case of a network failure. \r</p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7053,6 +7053,19 @@
               "font-size": "22px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to Top</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"palldiumsecurity.ca.html#header1-1\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Smart-Home_Solutions.html#msg-box6-bn\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Smart Home</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-d1"
         },
         {
           "_tags": [
