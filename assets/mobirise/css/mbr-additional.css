@@ -2814,8 +2814,18 @@ section.form .container {
 #content1-co P {
   font-size: 18px;
 }
+#msg-box5-d0 P {
+  text-align: left;
+  font-size: 18px;
+}
+#msg-box5-d0 H3 {
+  text-align: center;
+  color: #0622bf;
+  font-size: 60px;
+}
 #content1-c0 P {
   font-size: 18px;
+  text-align: left;
 }
 #msg-box5-cy P {
   text-align: left;
