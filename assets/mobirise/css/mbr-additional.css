@@ -3149,3 +3149,101 @@ section.form .container {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
 }
+
+#menu-cf .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-cf .navbar-caption {
+  color: #ffffff;
+}
+#menu-cf .navbar-toggler {
+  color: #eaeaea;
+}
+#menu-cf .link,
+#menu-cf .dropdown-item {
+  color: #eaeaea;
+}
+#menu-cf .link {
+  font-size: 0.95rem;
+}
+#menu-cf .dropdown-item,
+#menu-cf .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-cf .link:hover,
+#menu-cf .dropdown-item:hover,
+#menu-cf .link:focus,
+#menu-cf .dropdown-item:focus {
+  color: #1634dd;
+}
+#menu-cf .link[aria-expanded="true"],
+#menu-cf .dropdown-menu {
+  background: #000000;
+}
+#menu-cf .nav-dropdown-sm .link:focus,
+#menu-cf .nav-dropdown-sm .link:hover,
+#menu-cf .nav-dropdown-sm .dropdown-item:focus,
+#menu-cf .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-cf .navbar,
+#menu-cf .nav-dropdown-sm,
+#menu-cf .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-cf .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-cf .bg-color.transparent .link {
+  color: #eaeaea;
+  transition: none;
+}
+#menu-cf .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-cf .bg-color.transparent.opened .link:hover,
+#menu-cf .bg-color.transparent.opened .link:focus {
+  color: #1634dd;
+}
+#menu-cf .link[aria-expanded="true"],
+#menu-cf .dropdown-item[aria-expanded="true"] {
+  color: #1634dd!important;
+}
+#menu-cf.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-cf .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-cf .close-icon::before,
+#menu-cf .close-icon::after {
+  background-color: #eaeaea;
+}
+#menu-cf A {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-ci .mbr-section-title,
+#header3-ci .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts3-ch .list-group-text {
+  text-align: left;
+  color: #2969b0;
+}
+#contacts3-ch P {
+  text-align: left;
+  color: #efefef;
+}
+#contacts3-ch H4 {
+  text-align: left;
+  font-size: 20px;
+  color: #ffffff;
+}
+#contacts3-ch UL {
+  text-align: left;
+}
+#contacts3-ch STRONG {
+  font-size: 20px;
+}
+#contacts3-ch LI {
+  color: #3d8eb9;
+}
