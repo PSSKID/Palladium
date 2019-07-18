@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "terms.html",
+    "currentPage": "palldiumsecurity.ca.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -7756,7 +7756,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4001.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
