@@ -6776,31 +6776,33 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/GwQzm6XyzdM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/GwQzm6XyzdM?list=PLgffTaB6fNGydrLOrm-4bgv5anXTmoBak",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#efefef",
             "overlayOpacity": 0.5
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg",
               "link": "Smart_Home_automation_lighting_thermostat_Security_.html#msg-box5-ah",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://youtu.be/GwQzm6XyzdM?list=PLgffTaB6fNGydrLOrm-4bgv5anXTmoBak",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
