@@ -2811,6 +2811,10 @@ section.form .container {
   color: #eaeaea;
   font-family: 'Bitter', serif;
 }
+#header3-cp .mbr-section-title,
+#header3-cp .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box5-bz P {
   text-align: left;
 }
@@ -2842,10 +2846,6 @@ section.form .container {
 }
 #contacts3-ag LI {
   color: #3d8eb9;
-}
-#features3-c6 P {
-  text-align: left;
-  color: #475577;
 }
 
 #menu-ar .hide-buttons .nav-btn {
