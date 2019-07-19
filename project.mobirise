@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Smart_Home_automation_lighting_thermostat_Security_.html",
+    "currentPage": "Minor_Hockey_Funding.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#232323",
         "#424a4d",
         "#fd231f",
         "#baaeae",
         "#eaeaea",
         "#0622bf",
-        "#0d0c0d"
+        "#0d0c0d",
+        "#f1e1e1"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 472,
+    "uniqCompNum": 448,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -7340,7 +7340,7 @@
           "text": "Finding ways for teams and organizations to fund minor hockey has always been a challage.\n<br>Thats why Palladium Security Systems has created the Minor hockey funding program<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Information</a>",
           "title1": "<a href=\"Minor_Hockey_Funding.html#msg-box5-bz\">Idea Behind it</a>",
-          "title2": "<p><a href=\"Minor_Hockey_Funding.html#msg-box5-cy\">How it works</a></p>",
+          "title2": "<p><a href=\"Minor_Hockey_Funding.html#header3-cf\">How it works</a></p>",
           "title3": "<a href=\"Under_Construction.html\">Organization Portal&nbsp;</a>",
           "title4": "<a href=\"Sign_Me_Up.html#extForm1-au\" class=\"text-warning\">Sign Me Up</a>",
           "media1": {
@@ -7572,14 +7572,37 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#0622bf"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Shutout Intruders <br>While Funding Community Hockey",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cf"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": true,
             "inverse": true,
             "imageSize": "57",
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -7617,7 +7640,7 @@
               "size": 0
             }
           },
-          "title": "How does the Palladium <br>Hockey Fund<br>Work ?<br><br>Shutout Intruders While Funding Community Hockey",
+          "title": "How does the Palladium <br>Hockey Fund<br>Work ?<br><br><br>",
           "text": "The Palladium Security Minor Hockey Fund was created to help hockey organizations from the MD to AAA levels develop and roster hockey players that may not have the resources to enroll in the game thus giving them a chance to play the game we all love. \n<br>\n<br>The owner of Palladium has been involved with minor hockey since his kids started playing the game at the age of seven. The cost of registration and equipment the first couple of years was about $700 a season. This included the registration fees and the hockey kits of equipment we purchased from Canadian Tire. Once the kids advanced past the novice years and they started to progress to A-AA and AAA level teams, the cost of being in the game grew at a remarkable rate. The $700 fee in novice was not the cost of just skates and a stick at the AAA level. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"palldiumsecurity.ca.html#header1-1\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"palldiumsecurity.ca.html#header1-1\" data-toolbar=\"-mbrBtnMove\">Sign Me Up</a>",
           "_tags": [

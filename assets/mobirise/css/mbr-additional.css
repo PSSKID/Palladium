@@ -2827,6 +2827,13 @@ section.form .container {
   font-size: 18px;
   text-align: left;
 }
+#header3-cf .mbr-section-title,
+#header3-cf .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-cf .mbr-section-title {
+  color: #0622bf;
+}
 #msg-box5-cy P {
   text-align: left;
 }
