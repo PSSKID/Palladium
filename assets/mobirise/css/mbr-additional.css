@@ -2989,14 +2989,20 @@ section.form .container {
   color: #0622bf;
   font-size: 46px;
 }
-#extFeatures1-bv .mbr-section-title {
+#msg-box2-ch .mbr-section-title {
   color: #fff;
 }
-#extFeatures1-bv P {
+#msg-box2-ch .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#features1-cg .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-cg .mbr-cards-col:nth-child(odd) .card-text {
   text-align: left;
 }
-#extFeatures1-bv DIV {
-  text-align: center;
+#features1-cg .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
 }
 #menu-bk .hide-buttons .nav-btn {
   display: none !important;

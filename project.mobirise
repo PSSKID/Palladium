@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 448,
+    "uniqCompNum": 450,
     "versionPublish": "4.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -8351,129 +8351,163 @@
             ".mbr-section-title": {
               "color": "#fff"
             },
-            "P": {
-              "text-align": "left"
-            },
-            "DIV": {
-              "text-align": "center"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#303030",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "media": {
+          "title": "Smart Home Featurs",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-ch"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
             "image": {
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x376.jpeg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
               "link": "",
               "alt": "",
               "title": ""
             }
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "security-bug",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
           "media2": {
-            "iconFont": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "mobile",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
-            "iconFont": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "desktop",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "lock",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "size": 0,
-              "color": "@primaryColor"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "edit",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
-          "title": "FEATURES",
-          "subtitle": "",
-          "feature_title1": "Security Integration",
-          "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "The traditional security system use keypads located at the doors and in bedrooms to arm and disarm. The Smart Home solution uses any network connected phone or tablet as to perform keypad and home control tasks.  ",
-          "feature_title2": "Remote VIdeo",
-          "feature_subtitle2": "High resolution screens friendly",
-          "feature_text2": "Use our in home storage solution to add video securiy and remote verification to your system. &nbsp;All video will be stored in house and availbe for viewing when you are ready.&nbsp;",
-          "feature_title3": "Translation ready",
-          "feature_subtitle3": "Find a common language with anyone",
-          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title4": "Door Control",
-          "feature_subtitle4": "Suits well all devices and screen sizes",
-          "feature_text4": "Use the video doorbell and automated locking system to remotely ensure your home is secure.  You left the house and are not sure if your locked the door.  Set the door to lock and arm the security system with one press on your smartphone.  Total control and security.",
-          "feature_title5": "Sharp solutions",
-          "feature_subtitle5": "Elaborated code and trendy design",
-          "feature_text5": "The lighting control feature can be used to illuminate perimeter lights if the alarm sounds. Create a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant for a period of time. ",
-          "feature_title6": "Awesome parallax",
-          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
-          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "alias": "mobirise3-blocks/components",
+          "title1": "Security Integration",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "The traditional security systems use keypads located at the entrance doors and in bedrooms to arm and disarm the alarm. <br><br>The Smart Home solution uses any network connected phone or tablet as to perform keypad and home control tasks with a simple app connection.&nbsp;",
+          "title2": "Remote VIdeo",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Most remote camera systems offered by our competitors use cloud-based technology to store your private security video. These solutions require access to your home network cameras as well as a constant network connection to the cloud.<br> \n<br>If your home network fails or is compromised, the camera system may be useless. Our solution streams the video to a local storage device then relays it to your remote devices for viewing. This solution puts less strain on your network and ensures your security footage is saved when needed&nbsp;<br>",
+          "title3": "Door Control",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<p>Use the video doorbell and automated locking system to remotely ensure your home is secure. You left the house and are not sure if you locked the door. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NO PROBLEM<br><br>Set the door to lock and arm the security system with one press on your smartphone. </p><br><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Total control and security.</p>",
+          "title4": "Lighting Control",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "The lighting control feature can be used to illuminate perimeter lights if the alarm sounds. Create a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant for a period of time.<br><br>Programing scenes for lighting that follow your home routine will always give your home the lived-in look thus lessening the chances of burglars know you are not home. &nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extFeatures1",
-          "_anchor": "extFeatures1-bv"
+          "_name": "features1",
+          "_anchor": "features1-cg",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
