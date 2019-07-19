@@ -8349,10 +8349,13 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#fd231f"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-section-title I": {
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -8366,7 +8369,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0d0c0d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8375,7 +8378,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Smart Home Featurs",
+          "title": "<span style=\"font-size: 60px;\"><i>Smart Home Features</i></span>",
           "text": "Cut down the development time with drag-and-drop website builder.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>",
           "_tags": [
@@ -8390,7 +8393,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -8470,26 +8473,26 @@
           },
           "title1": "Security Integration",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The traditional security systems use keypads located at the entrance doors and in bedrooms to arm and disarm the alarm. <br><br>The Smart Home solution uses any network connected phone or tablet as to perform keypad and home control tasks with a simple app connection.&nbsp;",
+          "caption1": "<br>The traditional security systems use keypads located at the entrance doors and in bedrooms to arm and disarm the alarm. \n<br>\n<br>The Smart Home solution uses any network connected phone or tablet as to perform keypad and home control tasks with a simple app connection.&nbsp;<br><br><br><br><br><br><br><br>",
           "title2": "Remote VIdeo",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Most remote camera systems offered by our competitors use cloud-based technology to store your private security video. These solutions require access to your home network cameras as well as a constant network connection to the cloud.<br> \n<br>If your home network fails or is compromised, the camera system may be useless. Our solution streams the video to a local storage device then relays it to your remote devices for viewing. This solution puts less strain on your network and ensures your security footage is saved when needed&nbsp;<br>",
+          "caption2": "Most remote camera systems offered by our competitors use cloud-based technology to store your private security video. These solutions require access to your home network cameras as well as a constant network connection to the cloud.<br> \n<br>If your home network fails or is compromised, the camera system may be useless. Our solution streams the video to a local storage device then relays it to your remote devices for viewing. This solution puts less strain on your network and ensures your security footage is saved when needed&nbsp;<br><br>",
           "title3": "Door Control",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p>Use the video doorbell and automated locking system to remotely ensure your home is secure. You left the house and are not sure if you locked the door. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NO PROBLEM<br><br>Set the door to lock and arm the security system with one press on your smartphone. </p><br><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Total control and security.</p>",
+          "caption3": "<p>Use the video doorbell and automated locking system to remotely ensure your home is secure. You left the house and are not sure if you locked the door. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NO PROBLEM<br><br>Set the door to lock and arm the security system with one press on your smartphone. </p><br><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Total control and security.</p><br><p><br></p>",
           "title4": "Lighting Control",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The lighting control feature can be used to illuminate perimeter lights if the alarm sounds. Create a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant for a period of time.<br><br>Programing scenes for lighting that follow your home routine will always give your home the lived-in look thus lessening the chances of burglars know you are not home. &nbsp;",
+          "caption4": "The lighting control feature can be used to illuminate perimeter lights if the alarm sounds. Create a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant for a period of time.<br><br>Programing scenes for lighting that follow your home routine will always give your home the lived-in look thus lessening the chances of burglars know you are not home. &nbsp;<br><br><br><br><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:service@palladiumsecurity.ca\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Request Quote</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:service@palladiumsecurity.ca\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Request Quote</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:service@palladiumsecurity.ca\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Request Quote</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"mailto:service@palladiumsecurity.ca\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Request Quote</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [

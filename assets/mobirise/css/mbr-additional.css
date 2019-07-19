@@ -2990,10 +2990,13 @@ section.form .container {
   font-size: 46px;
 }
 #msg-box2-ch .mbr-section-title {
-  color: #ffffff;
+  color: #fd231f;
 }
 #msg-box2-ch .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#msg-box2-ch .mbr-section-title I {
+  font-size: 60px;
 }
 #features1-cg .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
