@@ -7578,7 +7578,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "57",
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7617,7 +7617,7 @@
               "size": 0
             }
           },
-          "title": "How does the Palladium Hockey Fund<br>Work ?<br><br>Shutout Intruders While Funding Community Hockey",
+          "title": "How does the Palladium <br>Hockey Fund<br>Work ?<br><br>Shutout Intruders While Funding Community Hockey",
           "text": "The Palladium Security Minor Hockey Fund was created to help hockey organizations from the MD to AAA levels develop and roster hockey players that may not have the resources to enroll in the game thus giving them a chance to play the game we all love. \n<br>\n<br>The owner of Palladium has been involved with minor hockey since his kids started playing the game at the age of seven. The cost of registration and equipment the first couple of years was about $700 a season. This included the registration fees and the hockey kits of equipment we purchased from Canadian Tire. Once the kids advanced past the novice years and they started to progress to A-AA and AAA level teams, the cost of being in the game grew at a remarkable rate. The $700 fee in novice was not the cost of just skates and a stick at the AAA level. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"palldiumsecurity.ca.html#header1-1\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"palldiumsecurity.ca.html#header1-1\" data-toolbar=\"-mbrBtnMove\">Sign Me Up</a>",
           "_tags": [
