@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "palldiumsecurity.ca.html",
+    "currentPage": "Smart_Home_automation_lighting_thermostat_Security_.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -6777,17 +6777,17 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/GwQzm6XyzdM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/GwQzm6XyzdM?list=PLgffTaB6fNGydrLOrm-4bgv5anXTmoBak",
+              "rawUrl": "https://www.youtube.com/embed/GwQzm6XyzdM?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#efefef",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
