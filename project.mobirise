@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Minor_Hockey_Funding.html",
+    "currentPage": "Smart-Home_Solutions.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -8275,10 +8275,10 @@
           "title2": "What can it do?",
           "title3": "How do I choose whats good for me ?",
           "title4": "What if I dont have a DSC Power Series",
-          "text1": "THe Palladium Smart Home System has a few options depending on the system you currently have installed in your home. &nbsp;If you have a DSC Power Series System, We can easly add the service to your system",
-          "text2": "All of our Smart Home system start with the basic functions of allowing you to remotely arm and disarm the security system via your cell phone.  The system then can be grown to allow for either network or cellular connections to the central station, Controlling lighting door locks and cameras.  Simple integration for everything you want your Smart home to do. &nbsp;",
-          "text3": "Palladium will perform an in-house evaluation to see what security system you have then offer solutions to products that your may like to add.  We strive to make the Smart Home experience an easy one and customized to both your budget and needs. ",
-          "text4": "Create awesome mobile-friendly websites. No coding and free.",
+          "text1": "The Palladium Smart Home System consists of many options depending on the system you currently have installed.  If you have a DSC Power Series System, we can easily add these services to your system.  If you have other manufacturers systems, We can still help with our cellular packages.  ",
+          "text2": "All our Smart Home system start with the basic functions of allowing you to remotely arm and disarm the security system via your cell phone. The system then can be expanded to allow you to Control lighting, door locks and cameras.  Our internet or cellular connection solutions can create a secure path of communication to the central station, Simple integration for everything you want your Smart home to be.  ",
+          "text3": "Palladium will perform an in-house evaluation to see the capabilities of your security system then offer solutions that fit your requirements. We strive to make the Smart Home experience easy to fit your budget and needs. ",
+          "text4": "Our solutions can be fitted to most security system installed in the last 20 years.  This integration helps our client get the smart home experience they want without investing in new security equipment. ",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
           "media": {
             "image": {
@@ -8353,6 +8353,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -8376,7 +8379,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpeg",
               "active": true,
               "link": "",
               "alt": "",
@@ -8416,12 +8419,13 @@
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-features6",
-              "name": "video",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "active": true,
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media5": {
@@ -8448,7 +8452,7 @@
           "subtitle": "",
           "feature_title1": "Security Integration",
           "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "The traditional security system uses keypads located at the doors and in bedrooms to arm and disarm. The Smart Home solution uses any cell phone or tablet as a central location to perform keypad tasks as well as lighting control",
+          "feature_text1": "The traditional security system use keypads located at the doors and in bedrooms to arm and disarm. The Smart Home solution uses any network connected phone or tablet as to perform keypad and home control tasks.  ",
           "feature_title2": "Remote VIdeo",
           "feature_subtitle2": "High resolution screens friendly",
           "feature_text2": "Use our in home storage solution to add video securiy and remote verification to your system. &nbsp;All video will be stored in house and availbe for viewing when you are ready.&nbsp;",
@@ -8457,10 +8461,10 @@
           "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
           "feature_title4": "Door Control",
           "feature_subtitle4": "Suits well all devices and screen sizes",
-          "feature_text4": "Use the video doorbell and automated locking sysetm to remotly ensure your home is secure. &nbsp;Send a lock command to the front door and have the security system arm while you view the area. &nbsp;Total control and security. &nbsp;",
+          "feature_text4": "Use the video doorbell and automated locking system to remotely ensure your home is secure.  You left the house and are not sure if your locked the door.  Set the door to lock and arm the security system with one press on your smartphone.  Total control and security.",
           "feature_title5": "Sharp solutions",
           "feature_subtitle5": "Elaborated code and trendy design",
-          "feature_text5": "The lighting control feature can be used to ilumitate perimiter lights if the alarm souds. Creat a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant to a period of time.&nbsp;",
+          "feature_text5": "The lighting control feature can be used to illuminate perimeter lights if the alarm sounds. Create a lighted pathway when you enter the home or even ensure the light turn off automatically when a room is vacant for a period of time. ",
           "feature_title6": "Awesome parallax",
           "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
           "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",

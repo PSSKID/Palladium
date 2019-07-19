@@ -2995,6 +2995,9 @@ section.form .container {
 #extFeatures1-bv P {
   text-align: left;
 }
+#extFeatures1-bv DIV {
+  text-align: center;
+}
 #menu-bk .hide-buttons .nav-btn {
   display: none !important;
 }
