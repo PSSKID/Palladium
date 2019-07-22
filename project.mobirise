@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about_Us.html",
+    "currentPage": "residential_existing.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -6513,7 +6513,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "title": "Residential Security Systsms<br>Existing Installations",
+          "title": "Residential Security Systems<br>Existing Installations",
           "text": "<p>If you currentlly have a sercurity systems and are looking to have in serviced or add any of our services to it, We can help. &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Security Solutions</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Commercial Interactive.html\" data-toolbar=\"-mbrBtnMove\">Integration Solutions</a>",
           "_anchor": "msg-box8-5z"
