@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "residential_existing.html",
+    "currentPage": "Smart-Home_Solutions.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -8245,7 +8245,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Smart_Home_automation_lighting_thermostat_Security_.html#content1-b8\" data-toolbar=\"-mbrBtnMove\">Add to&nbsp;<br>your system<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Smart_Home_automation_lighting_thermostat_Security_.html#header3-bc\" data-toolbar=\"-mbrBtnMove\">Smart Home<br>Features<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Smart-Home_Solutions.html#extFeatures2-bu\" data-toolbar=\"-mbrBtnMove\">Add to&nbsp;<br>your system<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Smart-Home_Solutions.html#msg-box2-ch\" data-toolbar=\"-mbrBtnMove\">Smart Home<br>Features<br></a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-bn"
         },
