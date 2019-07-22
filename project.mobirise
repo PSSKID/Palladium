@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "palldiumsecurity.ca.html",
+    "currentPage": "about_Us.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -74,7 +74,7 @@
       "settings": {
         "main": true,
         "title": "Palladium Security Systems",
-        "meta_descr": "Home and Business Security Solutions for Hamilton, Burlington, Oakville, Mississauga, Toronto, Niagara,Brantford Ontario Canada",
+        "meta_descr": "Home and Business Security Solutions for Hamilton, Burlington, Oakville, Mississauga, Toronto, Niagara, Brantford Ontario Canada",
         "header_custom": "Security Alarm System Residential, Commercial, Hamilton, Stoney Creek, Ancaster, Dundas, Waterdown, Smarthome, home automation, remote control, dimmers, lighting, infrared, ir, home automation systems, surveillance, ip cameras, access control, cameras and surveillance, energy saving thermostats",
         "footer_custom": "",
         "html_before": "",
@@ -586,7 +586,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
-          "title": "Residential Security Systsms<br>NEW INSTALLATIONS",
+          "title": "Residential Security Systems<br>NEW INSTALLATIONS",
           "text": "<p>If you currentlly have a sercurity systems and are looking to have in serviced or add any of our services to it, We can help. &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_New_Install.html#msg-box5-6j\" data-toolbar=\"-mbrBtnMove\">Monitoring <br>Services</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_New_Install.html#msg-box5-6m\" data-toolbar=\"-mbrBtnMove\">Smoke<br>Detection</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_New_Install.html#msg-box5-6l\" data-toolbar=\"-mbrBtnMove\">Carbon<br>Monoxide</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Residential_New_Install.html#msg-box5-6n\" data-toolbar=\"-mbrBtnMove\">Low<br>Temperature</a>  "
         },
@@ -1096,7 +1096,7 @@
           },
           "title": "About Us",
           "text": "Palladium is a Canadian-owned and operated security provider located in the Greater Toronto Area and serving homes and businesses in South-Western Ontario From the Niagara area to Oshawa including Hamilton, Burlington, Oakville, Mississauga, and Toronto. We have been servicing a long list of clients for the past 20 years and we install only top-quality security systems from manufacturers including GE, DSC and Paradox with the service to match. Palladium is a Canadian-owned and operated security provider&nbsp;<br><br>Historical Roots..\n<br><br><b>Palladium - \"The Protector\" Since 1992</b><br>\n<br>In ancient Greek mythology, Palladium, a synonym of the word security, was thought to be a sacred image of Athena and kept in the Temple of Athena in Troy. Legend has it that the image was sent by Zeus to Dardanus, the founder of Troy, and it was believed that the city could not be taken while it possessed the \"Palladium\". Thus, during the Trojan war, two Greeks named Diomed and Odysseus stole the image and then Troy was taken a short time later. <br><br>Palladium has come to symbolize \"The Protector\".<br>\n<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"palldiumsecurity.ca.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Security Main Splash.html\" data-toolbar=\"-mbrBtnMove\">Security Solutions</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"palldiumsecurity.ca.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Security Main Splash.html\" data-toolbar=\"-mbrBtnMove\">Security Solutions</a>",
           "_tags": [
             "Theme"
           ],
