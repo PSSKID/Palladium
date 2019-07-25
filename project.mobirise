@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "palldiumsecurity.ca.html",
+    "currentPage": "Clinet_Hub_Information.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -3153,7 +3153,7 @@
             "showImage": true,
             "showTitle": true,
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "showArrow": false,
             "imageSize": "69",
             "bgImageRadio": true,
@@ -3171,7 +3171,7 @@
           },
           "title": "Personal Client Portal",
           "text": "Palladium Security is Proud to introduce their new client portal service. This new portal will allow all our registered clients to securly login to their account. &nbsp;This portal will allow our clients &nbsp;to view their invoices, book appointments, send us secured messages, store their user manuals and other security related documents.&nbsp;<br><br>Our integrated portal will allow all monitored clients to link their account internally to our ULC listed monitoring stations so they can view all signals, users and other information required by the monitoring station in a live window. This reduces the requirement to call our station to update lists and increases the accuracy of the client list.&nbsp;",
-          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary text-xs-center\">GET FREE TRIAL</a>",
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary text-xs-center\" data-toolbar=\"-mbrBtnMove\" href=\"https://client.palladiumsecurity.ca/\">Register Here</a>",
           "media": {
             "image": {
               "active": true,
