@@ -36,7 +36,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "Security Alarm System Residential, Commercial, Hamilton, Stoney Creek, Ancaster, Dundas, Waterdown, Smarthome, home automation, remote control, dimmers, lighting, infrared, ir, home automation systems, surveillance, ip cameras, access control, cameras and surveillance, energy saving thermostats",
+    "google-analytics": "",
     "mcShopcart": {
       "email": "info@palladiumsecurity.ca",
       "iconSize": "30",
@@ -74,8 +74,8 @@
       "settings": {
         "main": true,
         "title": "Palladium Security Systems",
-        "meta_descr": "",
-        "header_custom": "",
+        "meta_descr": "Security Alarm System Residential, Commercial, Hamilton, Stoney Creek, Ancaster, Dundas, Waterdown, Smarthome, home automation, remote control, dimmers, lighting, infrared, ir, home automation systems, surveillance, ip cameras, access control, cameras and surveillance, energy saving thermostats",
+        "header_custom": "Security Alarm System Residential, Commercial, Hamilton, Stoney Creek, Ancaster, Dundas, Waterdown, Smarthome, home automation, remote control, dimmers, lighting, infrared, ir, home automation systems, surveillance, ip cameras, access control, cameras and surveillance, energy saving thermostats",
         "footer_custom": "",
         "html_before": "",
         "order": 1
