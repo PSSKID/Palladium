@@ -2535,18 +2535,16 @@ section.form .container {
   color: #fff;
 }
 #content1-b8 P {
-  font-size: 24px;
+  font-size: 22px;
 }
-#header3-bc .mbr-section-title,
-#header3-bc .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-cg P {
+  text-align: left;
+  font-size: 20px;
 }
-#header3-bc .mbr-section-title {
+#msg-box5-cg H3 {
   text-align: center;
-}
-#content1-bb P {
-  font-size: 24px;
-  text-align: center;
+  color: #0622bf;
+  font-size: 60px;
 }
 #header3-be .mbr-section-title,
 #header3-be .mbr-section-subtitle {
