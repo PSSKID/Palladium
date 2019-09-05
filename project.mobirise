@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 463,
+    "uniqCompNum": 464,
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
@@ -10171,6 +10171,26 @@
           },
           "text": "Copyright (c) 2019 Palladium Security Systems.",
           "_anchor": "footer1-cs"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cv"
         },
         {
           "_customTemplate": true,
