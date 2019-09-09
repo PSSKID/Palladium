@@ -35,7 +35,15 @@
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
     "google-analytics": "",
     "mcShopcart": {
       "email": "info@palladiumsecurity.ca",
@@ -55,19 +63,15 @@
     "siteUrl": "https://palladiumsecurity.ca",
     "sitemapSwitcherAuto": "on",
     "siteFonts": [],
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "сanonical-url": "",
-    "customCookies": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
-    },
     "sitemapSwitcher": "on"
   },
   "pages": {
@@ -10173,38 +10177,24 @@
           "_anchor": "footer1-cs"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "6",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "<b><br></b><br><b>Office Pool<br></b><br><br><br><br><br><b><br></b>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-cv"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<iframe marginheight=\"0\" marginwidth=\"0\" style=\"border: none;\" frameborder=\"0\" src=\"http://www.officepools.com/nhl/classic/widget/KBHKBFU\" width=\"500\" height=\"500\">\n</iframe>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-cu",
+          "_anchor": "header3-cv",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article mbr-after-navbar\" data-rv-view=\"1233\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 60px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"194\">Title with Solid Background Color</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"195\"><strong><br></strong><br><strong>Office Pool<br></strong><br><br><br><br><br><strong><br></strong></small>\n            </div>\n        </div>\n    </div>\n    \n    <iframe marginheight=\"0\" marginwidth=\"0\" style=\"border: none;\" frameborder=\"0\" src=\"http://www.officepools.com/nhl/classic/widget/KBHKBFU\" width=\"500\" height=\"500\">\n</iframe>\n</section>\n\n",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\n",
+          "_customTemplate": true
         },
         {
           "_tags": [
