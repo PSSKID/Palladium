@@ -726,9 +726,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rN0RPwCpyG {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background-color: #efefef;
 }
 .cid-rN0RPwCpyG .mbr-section-subtitle {
   color: #232323;
@@ -992,10 +992,6 @@ section.lazy-placeholder:after {
 .cid-rN0Qfx6bqg .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rN0Qfx6bqg .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rN0Qfx6bqg .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rN0Qfx6bqg .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rN0Qfx6bqg .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1096,10 +1092,6 @@ section.lazy-placeholder:after {
   .cid-rN0Qfx6bqg .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rN0Qfx6bqg .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rN0Qfx6bqg .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rN0Qfx6bqg .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rN0Qfx6bqg .navbar-collapse.collapsing .navbar-buttons,
   .cid-rN0Qfx6bqg .navbar-collapse.show .navbar-buttons {
